@@ -1,17 +1,17 @@
 import { useState } from 'react'
 import './App.css'
-import fixturedata from '../data/get-fixtures-en.json'
-console.log(fixturedata)
+import Versus from './components/Fixtures.jsx'
 
 function App() {
+
   return (
     <div>
-        <div>
-          <h1>premier league</h1>
-          <pre>{JSON.stringify(fixturedata, null, 2)}</pre>
-        </div>
-  </div>
-  )
+      <div>
+        <h1>Premier League</h1>
+        <Versus/>
+      </div>
+    </div>
+  );
 }
 
 export default App
