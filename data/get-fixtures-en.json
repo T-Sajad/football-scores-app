@@ -966,7 +966,7 @@
     {
       "fixture": {
         "id": 1035051,
-        "referee": null,
+        "referee": "P. Bankes",
         "timezone": "UTC",
         "date": "2023-10-03T18:30:00+00:00",
         "timestamp": 1696357800,
@@ -3419,8 +3419,8 @@
         "date": "2023-09-24T13:00:00+00:00",
         "timestamp": 1695560400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695560400,
+          "second": 1695564000
         },
         "venue": {
           "id": 494,
@@ -3428,9 +3428,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3457,17 +3457,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -3487,8 +3487,8 @@
         "date": "2023-09-23T16:30:00+00:00",
         "timestamp": 1695486600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695486600,
+          "second": 1695490200
         },
         "venue": {
           "id": 10503,
@@ -3496,9 +3496,9 @@
           "city": "Brentford, Middlesex"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3515,27 +3515,27 @@
           "id": 55,
           "name": "Brentford",
           "logo": "https://media-4.api-sports.io/football/teams/55.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 45,
           "name": "Everton",
           "logo": "https://media-4.api-sports.io/football/teams/45.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -3555,8 +3555,8 @@
         "date": "2023-09-24T13:00:00+00:00",
         "timestamp": 1695560400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695560400,
+          "second": 1695564000
         },
         "venue": {
           "id": 508,
@@ -3564,9 +3564,9 @@
           "city": "Falmer, East Sussex"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3583,27 +3583,27 @@
           "id": 51,
           "name": "Brighton",
           "logo": "https://media-4.api-sports.io/football/teams/51.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 35,
           "name": "Bournemouth",
           "logo": "https://media-4.api-sports.io/football/teams/35.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3623,8 +3623,8 @@
         "date": "2023-09-23T19:00:00+00:00",
         "timestamp": 1695495600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695495600,
+          "second": 1695499200
         },
         "venue": {
           "id": 512,
@@ -3632,9 +3632,9 @@
           "city": "Burnley"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3651,27 +3651,27 @@
           "id": 44,
           "name": "Burnley",
           "logo": "https://media-4.api-sports.io/football/teams/44.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 33,
           "name": "Manchester United",
           "logo": "https://media-4.api-sports.io/football/teams/33.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3691,8 +3691,8 @@
         "date": "2023-09-24T13:00:00+00:00",
         "timestamp": 1695560400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695560400,
+          "second": 1695564000
         },
         "venue": {
           "id": 519,
@@ -3700,9 +3700,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3719,27 +3719,27 @@
           "id": 49,
           "name": "Chelsea",
           "logo": "https://media-4.api-sports.io/football/teams/49.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 66,
           "name": "Aston Villa",
           "logo": "https://media-4.api-sports.io/football/teams/66.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3759,8 +3759,8 @@
         "date": "2023-09-23T14:00:00+00:00",
         "timestamp": 1695477600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695477600,
+          "second": 1695481200
         },
         "venue": {
           "id": 525,
@@ -3768,9 +3768,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3797,17 +3797,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -3827,8 +3827,8 @@
         "date": "2023-09-24T13:00:00+00:00",
         "timestamp": 1695560400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695560400,
+          "second": 1695564000
         },
         "venue": {
           "id": 550,
@@ -3836,9 +3836,9 @@
           "city": "Liverpool"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3855,27 +3855,27 @@
           "id": 40,
           "name": "Liverpool",
           "logo": "https://media-4.api-sports.io/football/teams/40.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 48,
           "name": "West Ham",
           "logo": "https://media-4.api-sports.io/football/teams/48.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3895,8 +3895,8 @@
         "date": "2023-09-23T14:00:00+00:00",
         "timestamp": 1695477600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695477600,
+          "second": 1695481200
         },
         "venue": {
           "id": 551,
@@ -3904,9 +3904,9 @@
           "city": "Luton, Bedfordshire"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3933,17 +3933,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -3963,8 +3963,8 @@
         "date": "2023-09-23T14:00:00+00:00",
         "timestamp": 1695477600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695477600,
+          "second": 1695481200
         },
         "venue": {
           "id": 555,
@@ -3972,9 +3972,9 @@
           "city": "Manchester"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -3991,27 +3991,27 @@
           "id": 50,
           "name": "Manchester City",
           "logo": "https://media-4.api-sports.io/football/teams/50.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 65,
           "name": "Nottingham Forest",
           "logo": "https://media-4.api-sports.io/football/teams/65.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -4031,8 +4031,8 @@
         "date": "2023-09-24T15:30:00+00:00",
         "timestamp": 1695569400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1695569400,
+          "second": 1695573000
         },
         "venue": {
           "id": 581,
@@ -4040,9 +4040,9 @@
           "city": "Sheffield"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4059,27 +4059,27 @@
           "id": 62,
           "name": "Sheffield Utd",
           "logo": "https://media-4.api-sports.io/football/teams/62.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 34,
           "name": "Newcastle",
           "logo": "https://media-4.api-sports.io/football/teams/34.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 8
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 8
         },
         "extratime": {
           "home": null,
@@ -4094,7 +4094,7 @@
     {
       "fixture": {
         "id": 1035097,
-        "referee": null,
+        "referee": "M. Salisbury",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
@@ -4162,7 +4162,7 @@
     {
       "fixture": {
         "id": 1035098,
-        "referee": null,
+        "referee": "A. Madley",
         "timezone": "UTC",
         "date": "2023-09-30T11:30:00+00:00",
         "timestamp": 1696073400,
@@ -4230,7 +4230,7 @@
     {
       "fixture": {
         "id": 1035099,
-        "referee": null,
+        "referee": "A. Taylor",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
@@ -4298,7 +4298,7 @@
     {
       "fixture": {
         "id": 1035100,
-        "referee": null,
+        "referee": "T. Robinson",
         "timezone": "UTC",
         "date": "2023-10-02T19:00:00+00:00",
         "timestamp": 1696273200,
@@ -4366,7 +4366,7 @@
     {
       "fixture": {
         "id": 1035101,
-        "referee": null,
+        "referee": "C. Kavanagh",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
@@ -4434,7 +4434,7 @@
     {
       "fixture": {
         "id": 1035102,
-        "referee": null,
+        "referee": "T. Bramall",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
@@ -4502,7 +4502,7 @@
     {
       "fixture": {
         "id": 1035103,
-        "referee": null,
+        "referee": "P. Tierney",
         "timezone": "UTC",
         "date": "2023-10-01T13:00:00+00:00",
         "timestamp": 1696165200,
@@ -4570,7 +4570,7 @@
     {
       "fixture": {
         "id": 1035104,
-        "referee": null,
+        "referee": "S. Hooper",
         "timezone": "UTC",
         "date": "2023-09-30T16:30:00+00:00",
         "timestamp": 1696091400,
@@ -4638,7 +4638,7 @@
     {
       "fixture": {
         "id": 1035105,
-        "referee": null,
+        "referee": "G. Scott",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
@@ -4706,7 +4706,7 @@
     {
       "fixture": {
         "id": 1035106,
-        "referee": null,
+        "referee": "C. Pawson",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
