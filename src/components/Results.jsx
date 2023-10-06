@@ -1,12 +1,13 @@
 import fixturedata from '../../data/get-fixtures-en.json'
 import {useState} from 'react'
+import FixtureList from './FixtureList'
 console.log(fixturedata)
 import { startOfDay, subDays, endOfDay } from 'date-fns'
 
 function Results() {
-  const fixture = fixturedata.response
+  const fixtures = fixturedata.response
   //const [filteredUsers, setFilteredUsers] = useState(fixture)
-  const [filteredUsers, setFilteredUsers] = useState(filterSevenDays(fixture))
+  const [filteredUsers, setFilteredUsers] = useState(filterSevenDays(fixtures))
 
   // TODO this is also a candidate for unit testing!
   function filterSevenDays(fixtureData) {
@@ -19,7 +20,7 @@ function Results() {
         const { fixture } = fixtureData;
         const gameday = new Date(fixture.date)
         if(gameday >= endDate && gameday <= startDate ) {
-          return fixture    
+          return fixture   
         }
     })
   }
@@ -27,16 +28,7 @@ function Results() {
   return (
     <div>
       <div>
-        {filteredUsers.map((fixture, i) => (
-          <div key={i}>
-            <h3>{`${fixture.teams.home.name}`}
-              <img width='75pxpx' height='75px'src={fixture.teams.home.logo}/>
-              {`${fixture.score.fulltime.home}-${fixture.score.fulltime.away}`}
-              <img  width='75pxpx' height='75px' src={fixture.teams.away.logo}/>
-              {`${fixture.teams.away.name}`}
-            </h3>
-          </div>
-        ))}
+      <FixtureList fixtures={filteredUsers}/>
       </div>
     </div>
   );

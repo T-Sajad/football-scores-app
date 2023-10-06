@@ -1,4 +1,3 @@
-
 import './App.css'
 import Options from './components/Tabs.jsx'
 

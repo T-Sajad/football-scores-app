@@ -1,4 +1,5 @@
 import fixturedata from '../../data/get-fixtures-en.json'
+import Fixture from './Fixture'
 import {useState} from 'react'
 console.log(fixturedata)
 
@@ -41,15 +42,8 @@ function Byteams() {
         placeholder='team'
         />
       <div>
-        {filterFixtures.map((fixture, i) => (
-          <div key={i}>
-            <h3>{`${fixture.teams.home.name}`}
-              <img width='75px' height='75px'src={fixture.teams.home.logo}/>
-              {`${fixture.score.fulltime.home}-${fixture.score.fulltime.away}`}
-              <img  width='75px' height='75px' src={fixture.teams.away.logo}/>
-              {`${fixture.teams.away.name}`}
-            </h3>
-          </div>
+        {filterFixtures.map((fixture) => (
+           <Fixture fixture={fixture}/>
         ))}
       </div>
     </div>

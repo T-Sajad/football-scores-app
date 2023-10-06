@@ -1,14 +1,16 @@
 import fixturedata from '../../data/get-fixtures-en.json'
+import FixtureList from './FixtureList'
 import {useState} from 'react'
 console.log(fixturedata)
 import { startOfDay, addDays, endOfDay } from 'date-fns'
 
+
 function Upcoming() {
-  const fixture = fixturedata.response
+  const fixtures = fixturedata.response
   const [searchItem, setSearchItem] = useState('')
   //const [filteredUsers, setFilteredUsers] = useState(fixture)
-  const [filteredUsers, setFilteredUsers] = useState(filterSevenDays(fixture))
-  console.log(filteredUsers)
+  const [filteredUsers, setFilteredUsers] = useState(filterSevenDays(fixtures))
+  // console.log(filteredUsers)
   
   // TODO give this a more meaningful name, like `filterByName`
   const handleInputChange = (e) => { 
@@ -16,7 +18,7 @@ function Upcoming() {
       setSearchItem(searchTerm)
 
     // TODO this actual filter function is a great candidate for unit testing!
-    const filteredItems = fixture.filter((fixtures) =>
+    const filteredItems = fixtures.filter((fixtures) =>
     fixtures.teams.home.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
     fixtures.teams.away.name.toLowerCase().includes(searchTerm.toLowerCase())
     );
@@ -35,7 +37,7 @@ function Upcoming() {
         const { fixture } = fixtureData;
         const gameday = new Date(fixture.date)
         if(gameday >= startDate && gameday <= endDate ) {
-          return fixture    
+          return fixture   
         }
     })
   }
@@ -49,16 +51,7 @@ function Upcoming() {
         placeholder='team'
         /> */}
       <div>
-        {filteredUsers.map((fixture, i) => (
-          <div key={i}>
-            <h3>{`${fixture.teams.home.name}`}
-              <img width='75pxpx' height='75px'src={fixture.teams.home.logo}/>
-              {`${fixture.score.fulltime.home}-${fixture.score.fulltime.away}`}
-              <img  width='75pxpx' height='75px' src={fixture.teams.away.logo}/>
-              {`${fixture.teams.away.name}`}
-            </h3>
-          </div>
-        ))}
+       <FixtureList fixtures={filteredUsers}/> 
       </div>
     </div>
   );
