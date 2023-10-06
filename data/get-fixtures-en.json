@@ -14,7 +14,7 @@
     {
       "fixture": {
         "id": 1035037,
-        "referee": "C. Pawson",
+        "referee": "Craig Pawson, England",
         "timezone": "UTC",
         "date": "2023-08-11T19:00:00+00:00",
         "timestamp": 1691780400,
@@ -82,7 +82,7 @@
     {
       "fixture": {
         "id": 1035038,
-        "referee": "M. Oliver",
+        "referee": "Michael Oliver, England",
         "timezone": "UTC",
         "date": "2023-08-12T11:30:00+00:00",
         "timestamp": 1691839800,
@@ -150,7 +150,7 @@
     {
       "fixture": {
         "id": 1035039,
-        "referee": "P. Bankes",
+        "referee": "Peter Bankes, England",
         "timezone": "UTC",
         "date": "2023-08-12T14:00:00+00:00",
         "timestamp": 1691848800,
@@ -218,7 +218,7 @@
     {
       "fixture": {
         "id": 1035040,
-        "referee": "D. Coote",
+        "referee": "David Coote, England",
         "timezone": "UTC",
         "date": "2023-08-12T14:00:00+00:00",
         "timestamp": 1691848800,
@@ -286,7 +286,7 @@
     {
       "fixture": {
         "id": 1035041,
-        "referee": "S. Attwell",
+        "referee": "Stuart Attwell, England",
         "timezone": "UTC",
         "date": "2023-08-12T14:00:00+00:00",
         "timestamp": 1691848800,
@@ -354,7 +354,7 @@
     {
       "fixture": {
         "id": 1035042,
-        "referee": "J. Brooks",
+        "referee": "John Brooks, England",
         "timezone": "UTC",
         "date": "2023-08-12T14:00:00+00:00",
         "timestamp": 1691848800,
@@ -422,7 +422,7 @@
     {
       "fixture": {
         "id": 1035043,
-        "referee": "A. Madley",
+        "referee": "Andy Madley, England",
         "timezone": "UTC",
         "date": "2023-08-12T16:30:00+00:00",
         "timestamp": 1691857800,
@@ -490,7 +490,7 @@
     {
       "fixture": {
         "id": 1035044,
-        "referee": "R. Jones",
+        "referee": "Robert Jones, England",
         "timezone": "UTC",
         "date": "2023-08-13T13:00:00+00:00",
         "timestamp": 1691931600,
@@ -558,7 +558,7 @@
     {
       "fixture": {
         "id": 1035045,
-        "referee": "A. Taylor",
+        "referee": "Anthony Taylor, England",
         "timezone": "UTC",
         "date": "2023-08-13T15:30:00+00:00",
         "timestamp": 1691940600,
@@ -626,7 +626,7 @@
     {
       "fixture": {
         "id": 1035046,
-        "referee": "S. Hooper",
+        "referee": "Simon Hooper, England",
         "timezone": "UTC",
         "date": "2023-08-14T19:00:00+00:00",
         "timestamp": 1692039600,
@@ -694,7 +694,7 @@
     {
       "fixture": {
         "id": 1035047,
-        "referee": "A. Taylor",
+        "referee": "Anthony Taylor, England",
         "timezone": "UTC",
         "date": "2023-08-20T13:00:00+00:00",
         "timestamp": 1692536400,
@@ -762,7 +762,7 @@
     {
       "fixture": {
         "id": 1035048,
-        "referee": "D. Coote",
+        "referee": "David Coote, England",
         "timezone": "UTC",
         "date": "2023-08-21T19:00:00+00:00",
         "timestamp": 1692644400,
@@ -830,7 +830,7 @@
     {
       "fixture": {
         "id": 1035049,
-        "referee": "D. Bond",
+        "referee": "Darren Bond, England",
         "timezone": "UTC",
         "date": "2023-08-19T14:00:00+00:00",
         "timestamp": 1692453600,
@@ -898,7 +898,7 @@
     {
       "fixture": {
         "id": 1035050,
-        "referee": "T. Bramall",
+        "referee": "Thomas Bramall, England",
         "timezone": "UTC",
         "date": "2023-08-19T14:00:00+00:00",
         "timestamp": 1692453600,
@@ -966,13 +966,13 @@
     {
       "fixture": {
         "id": 1035051,
-        "referee": "P. Bankes",
+        "referee": "Peter Bankes, England",
         "timezone": "UTC",
         "date": "2023-10-03T18:30:00+00:00",
         "timestamp": 1696357800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696357800,
+          "second": 1696361400
         },
         "venue": {
           "id": 551,
@@ -980,9 +980,9 @@
           "city": "Luton, Bedfordshire"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -999,27 +999,27 @@
           "id": 1359,
           "name": "Luton",
           "logo": "https://media-4.api-sports.io/football/teams/1359.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 44,
           "name": "Burnley",
           "logo": "https://media-4.api-sports.io/football/teams/44.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -1034,7 +1034,7 @@
     {
       "fixture": {
         "id": 1035052,
-        "referee": "R. Jones",
+        "referee": "Robert Jones, England",
         "timezone": "UTC",
         "date": "2023-08-19T19:00:00+00:00",
         "timestamp": 1692471600,
@@ -1102,7 +1102,7 @@
     {
       "fixture": {
         "id": 1035053,
-        "referee": "P. Bankes",
+        "referee": "Peter Bankes, England",
         "timezone": "UTC",
         "date": "2023-08-18T18:45:00+00:00",
         "timestamp": 1692384300,
@@ -1170,7 +1170,7 @@
     {
       "fixture": {
         "id": 1035054,
-        "referee": "M. Oliver",
+        "referee": "Michael Oliver, England",
         "timezone": "UTC",
         "date": "2023-08-19T16:30:00+00:00",
         "timestamp": 1692462600,
@@ -1238,7 +1238,7 @@
     {
       "fixture": {
         "id": 1035055,
-        "referee": "J. Brooks",
+        "referee": "John Brooks, England",
         "timezone": "UTC",
         "date": "2023-08-20T15:30:00+00:00",
         "timestamp": 1692545400,
@@ -1306,7 +1306,7 @@
     {
       "fixture": {
         "id": 1035056,
-        "referee": "A. Madley",
+        "referee": "Andy Madley, England",
         "timezone": "UTC",
         "date": "2023-08-19T14:00:00+00:00",
         "timestamp": 1692453600,
@@ -1374,7 +1374,7 @@
     {
       "fixture": {
         "id": 1035057,
-        "referee": "T. Robinson",
+        "referee": "Tim Robinson, England",
         "timezone": "UTC",
         "date": "2023-08-26T11:30:00+00:00",
         "timestamp": 1693049400,
@@ -1442,7 +1442,7 @@
     {
       "fixture": {
         "id": 1035058,
-        "referee": "P. Tierney",
+        "referee": "Paul Tierney, England",
         "timezone": "UTC",
         "date": "2023-08-26T14:00:00+00:00",
         "timestamp": 1693058400,
@@ -1510,7 +1510,7 @@
     {
       "fixture": {
         "id": 1035059,
-        "referee": "P. Bankes",
+        "referee": "Peter Bankes, England",
         "timezone": "UTC",
         "date": "2023-08-26T14:00:00+00:00",
         "timestamp": 1693058400,
@@ -1578,7 +1578,7 @@
     {
       "fixture": {
         "id": 1035060,
-        "referee": "A. Taylor",
+        "referee": "Anthony Taylor, England",
         "timezone": "UTC",
         "date": "2023-08-26T16:30:00+00:00",
         "timestamp": 1693067400,
@@ -1646,7 +1646,7 @@
     {
       "fixture": {
         "id": 1035061,
-        "referee": "M. Salisbury",
+        "referee": "Salisbury Michael, England",
         "timezone": "UTC",
         "date": "2023-08-27T13:00:00+00:00",
         "timestamp": 1693141200,
@@ -1714,7 +1714,7 @@
     {
       "fixture": {
         "id": 1035062,
-        "referee": "R. Jones",
+        "referee": "Robert Jones, England",
         "timezone": "UTC",
         "date": "2023-08-25T19:00:00+00:00",
         "timestamp": 1692990000,
@@ -1782,7 +1782,7 @@
     {
       "fixture": {
         "id": 1035063,
-        "referee": "C. Pawson",
+        "referee": "Craig Pawson, England",
         "timezone": "UTC",
         "date": "2023-08-26T14:00:00+00:00",
         "timestamp": 1693058400,
@@ -1850,7 +1850,7 @@
     {
       "fixture": {
         "id": 1035064,
-        "referee": "S. Attwell",
+        "referee": "Stuart Attwell, England",
         "timezone": "UTC",
         "date": "2023-08-26T14:00:00+00:00",
         "timestamp": 1693058400,
@@ -1918,7 +1918,7 @@
     {
       "fixture": {
         "id": 1035065,
-        "referee": "J. Brooks",
+        "referee": "John Brooks, England",
         "timezone": "UTC",
         "date": "2023-08-27T15:30:00+00:00",
         "timestamp": 1693150200,
@@ -1986,7 +1986,7 @@
     {
       "fixture": {
         "id": 1035066,
-        "referee": "J. Gillett",
+        "referee": "Jarred Gillett, Australia",
         "timezone": "UTC",
         "date": "2023-08-27T13:00:00+00:00",
         "timestamp": 1693141200,
@@ -2054,7 +2054,7 @@
     {
       "fixture": {
         "id": 1035067,
-        "referee": "A. Taylor",
+        "referee": "Anthony Taylor, England",
         "timezone": "UTC",
         "date": "2023-09-03T15:30:00+00:00",
         "timestamp": 1693755000,
@@ -2122,7 +2122,7 @@
     {
       "fixture": {
         "id": 1035068,
-        "referee": "R. Madley",
+        "referee": "Robert Madley, England",
         "timezone": "UTC",
         "date": "2023-09-02T14:00:00+00:00",
         "timestamp": 1693663200,
@@ -2190,7 +2190,7 @@
     {
       "fixture": {
         "id": 1035069,
-        "referee": "S. Attwell",
+        "referee": "Stuart Attwell, England",
         "timezone": "UTC",
         "date": "2023-09-02T16:30:00+00:00",
         "timestamp": 1693672200,
@@ -2258,7 +2258,7 @@
     {
       "fixture": {
         "id": 1035070,
-        "referee": "D. England",
+        "referee": "England Darren, England",
         "timezone": "UTC",
         "date": "2023-09-02T14:00:00+00:00",
         "timestamp": 1693663200,
@@ -2326,7 +2326,7 @@
     {
       "fixture": {
         "id": 1035071,
-        "referee": "T. Robinson",
+        "referee": "Tim Robinson, England",
         "timezone": "UTC",
         "date": "2023-09-02T14:00:00+00:00",
         "timestamp": 1693663200,
@@ -2394,7 +2394,7 @@
     {
       "fixture": {
         "id": 1035072,
-        "referee": "R. Jones",
+        "referee": "Robert Jones, England",
         "timezone": "UTC",
         "date": "2023-09-03T13:00:00+00:00",
         "timestamp": 1693746000,
@@ -2462,7 +2462,7 @@
     {
       "fixture": {
         "id": 1035073,
-        "referee": "S. Hooper",
+        "referee": "Simon Hooper, England",
         "timezone": "UTC",
         "date": "2023-09-03T13:00:00+00:00",
         "timestamp": 1693746000,
@@ -2530,7 +2530,7 @@
     {
       "fixture": {
         "id": 1035074,
-        "referee": "P. Tierney",
+        "referee": "Paul Tierney, England",
         "timezone": "UTC",
         "date": "2023-09-01T19:00:00+00:00",
         "timestamp": 1693594800,
@@ -2598,7 +2598,7 @@
     {
       "fixture": {
         "id": 1035075,
-        "referee": "M. Oliver",
+        "referee": "Michael Oliver, England",
         "timezone": "UTC",
         "date": "2023-09-02T14:00:00+00:00",
         "timestamp": 1693663200,
@@ -2666,7 +2666,7 @@
     {
       "fixture": {
         "id": 1035076,
-        "referee": "A. Madley",
+        "referee": "Andy Madley, England",
         "timezone": "UTC",
         "date": "2023-09-02T11:30:00+00:00",
         "timestamp": 1693654200,
@@ -2734,7 +2734,7 @@
     {
       "fixture": {
         "id": 1035077,
-        "referee": "D. Coote",
+        "referee": "David Coote, England",
         "timezone": "UTC",
         "date": "2023-09-17T13:00:00+00:00",
         "timestamp": 1694955600,
@@ -2802,7 +2802,7 @@
     {
       "fixture": {
         "id": 1035078,
-        "referee": "D. England",
+        "referee": "England Darren, England",
         "timezone": "UTC",
         "date": "2023-09-16T14:00:00+00:00",
         "timestamp": 1694872800,
@@ -2870,7 +2870,7 @@
     {
       "fixture": {
         "id": 1035079,
-        "referee": "S. Hooper",
+        "referee": "Simon Hooper, England",
         "timezone": "UTC",
         "date": "2023-09-17T15:30:00+00:00",
         "timestamp": 1694964600,
@@ -2938,7 +2938,7 @@
     {
       "fixture": {
         "id": 1035080,
-        "referee": "M. Salisbury",
+        "referee": "Salisbury Michael, England",
         "timezone": "UTC",
         "date": "2023-09-16T14:00:00+00:00",
         "timestamp": 1694872800,
@@ -3006,7 +3006,7 @@
     {
       "fixture": {
         "id": 1035081,
-        "referee": "J. Gillett",
+        "referee": "Jarred Gillett, Australia",
         "timezone": "UTC",
         "date": "2023-09-16T14:00:00+00:00",
         "timestamp": 1694872800,
@@ -3074,7 +3074,7 @@
     {
       "fixture": {
         "id": 1035082,
-        "referee": "C. Pawson",
+        "referee": "Craig Pawson, England",
         "timezone": "UTC",
         "date": "2023-09-16T16:30:00+00:00",
         "timestamp": 1694881800,
@@ -3142,7 +3142,7 @@
     {
       "fixture": {
         "id": 1035083,
-        "referee": "R. Jones",
+        "referee": "Robert Jones, England",
         "timezone": "UTC",
         "date": "2023-09-18T18:45:00+00:00",
         "timestamp": 1695062700,
@@ -3210,7 +3210,7 @@
     {
       "fixture": {
         "id": 1035084,
-        "referee": "P. Bankes",
+        "referee": "Peter Bankes, England",
         "timezone": "UTC",
         "date": "2023-09-16T14:00:00+00:00",
         "timestamp": 1694872800,
@@ -3278,7 +3278,7 @@
     {
       "fixture": {
         "id": 1035085,
-        "referee": "A. Madley",
+        "referee": "Andy Madley, England",
         "timezone": "UTC",
         "date": "2023-09-16T14:00:00+00:00",
         "timestamp": 1694872800,
@@ -3346,7 +3346,7 @@
     {
       "fixture": {
         "id": 1035086,
-        "referee": "M. Oliver",
+        "referee": "Michael Oliver, England",
         "timezone": "UTC",
         "date": "2023-09-16T11:30:00+00:00",
         "timestamp": 1694863800,
@@ -3414,7 +3414,7 @@
     {
       "fixture": {
         "id": 1035087,
-        "referee": "R. Jones",
+        "referee": "Robert Jones, England",
         "timezone": "UTC",
         "date": "2023-09-24T13:00:00+00:00",
         "timestamp": 1695560400,
@@ -3482,7 +3482,7 @@
     {
       "fixture": {
         "id": 1035088,
-        "referee": "M. Oliver",
+        "referee": "Michael Oliver, England",
         "timezone": "UTC",
         "date": "2023-09-23T16:30:00+00:00",
         "timestamp": 1695486600,
@@ -3550,7 +3550,7 @@
     {
       "fixture": {
         "id": 1035089,
-        "referee": "J. Brooks",
+        "referee": "John Brooks, England",
         "timezone": "UTC",
         "date": "2023-09-24T13:00:00+00:00",
         "timestamp": 1695560400,
@@ -3618,7 +3618,7 @@
     {
       "fixture": {
         "id": 1035090,
-        "referee": "T. Harrington",
+        "referee": "Tony Harrington, England",
         "timezone": "UTC",
         "date": "2023-09-23T19:00:00+00:00",
         "timestamp": 1695495600,
@@ -3686,7 +3686,7 @@
     {
       "fixture": {
         "id": 1035091,
-        "referee": "J. Gillett",
+        "referee": "Jarred Gillett, Australia",
         "timezone": "UTC",
         "date": "2023-09-24T13:00:00+00:00",
         "timestamp": 1695560400,
@@ -3754,7 +3754,7 @@
     {
       "fixture": {
         "id": 1035092,
-        "referee": "P. Tierney",
+        "referee": "Paul Tierney, England",
         "timezone": "UTC",
         "date": "2023-09-23T14:00:00+00:00",
         "timestamp": 1695477600,
@@ -3822,7 +3822,7 @@
     {
       "fixture": {
         "id": 1035093,
-        "referee": "C. Kavanagh",
+        "referee": "Chris Kavanagh, England",
         "timezone": "UTC",
         "date": "2023-09-24T13:00:00+00:00",
         "timestamp": 1695560400,
@@ -3890,7 +3890,7 @@
     {
       "fixture": {
         "id": 1035094,
-        "referee": "J. Smith",
+        "referee": "Josh Smith, England",
         "timezone": "UTC",
         "date": "2023-09-23T14:00:00+00:00",
         "timestamp": 1695477600,
@@ -3958,7 +3958,7 @@
     {
       "fixture": {
         "id": 1035095,
-        "referee": "A. Taylor",
+        "referee": "Anthony Taylor, England",
         "timezone": "UTC",
         "date": "2023-09-23T14:00:00+00:00",
         "timestamp": 1695477600,
@@ -4026,7 +4026,7 @@
     {
       "fixture": {
         "id": 1035096,
-        "referee": "S. Attwell",
+        "referee": "Stuart Attwell, England",
         "timezone": "UTC",
         "date": "2023-09-24T15:30:00+00:00",
         "timestamp": 1695569400,
@@ -4094,13 +4094,13 @@
     {
       "fixture": {
         "id": 1035097,
-        "referee": "M. Salisbury",
+        "referee": "Salisbury Michael, England",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696082400,
+          "second": 1696086000
         },
         "venue": {
           "id": 504,
@@ -4108,9 +4108,9 @@
           "city": "Bournemouth, Dorset"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4127,27 +4127,27 @@
           "id": 35,
           "name": "Bournemouth",
           "logo": "https://media-4.api-sports.io/football/teams/35.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 42,
           "name": "Arsenal",
           "logo": "https://media-4.api-sports.io/football/teams/42.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 4
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 4
         },
         "extratime": {
           "home": null,
@@ -4162,13 +4162,13 @@
     {
       "fixture": {
         "id": 1035098,
-        "referee": "A. Madley",
+        "referee": "Andy Madley, England",
         "timezone": "UTC",
         "date": "2023-09-30T11:30:00+00:00",
         "timestamp": 1696073400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696073400,
+          "second": 1696077000
         },
         "venue": {
           "id": 495,
@@ -4176,9 +4176,9 @@
           "city": "Birmingham"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4195,27 +4195,27 @@
           "id": 66,
           "name": "Aston Villa",
           "logo": "https://media-4.api-sports.io/football/teams/66.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 51,
           "name": "Brighton",
           "logo": "https://media-4.api-sports.io/football/teams/51.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 6,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -4230,13 +4230,13 @@
     {
       "fixture": {
         "id": 1035099,
-        "referee": "A. Taylor",
+        "referee": "Anthony Taylor, England",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696082400,
+          "second": 1696086000
         },
         "venue": {
           "id": 8560,
@@ -4244,9 +4244,9 @@
           "city": "Liverpool"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4263,27 +4263,27 @@
           "id": 45,
           "name": "Everton",
           "logo": "https://media-4.api-sports.io/football/teams/45.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 1359,
           "name": "Luton",
           "logo": "https://media-4.api-sports.io/football/teams/1359.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -4298,13 +4298,13 @@
     {
       "fixture": {
         "id": 1035100,
-        "referee": "T. Robinson",
+        "referee": "Tim Robinson, England",
         "timezone": "UTC",
         "date": "2023-10-02T19:00:00+00:00",
         "timestamp": 1696273200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696273200,
+          "second": 1696276800
         },
         "venue": {
           "id": 535,
@@ -4312,9 +4312,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4331,27 +4331,27 @@
           "id": 36,
           "name": "Fulham",
           "logo": "https://media-4.api-sports.io/football/teams/36.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 49,
           "name": "Chelsea",
           "logo": "https://media-4.api-sports.io/football/teams/49.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -4366,13 +4366,13 @@
     {
       "fixture": {
         "id": 1035101,
-        "referee": "C. Kavanagh",
+        "referee": "Chris Kavanagh, England",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696082400,
+          "second": 1696086000
         },
         "venue": {
           "id": 556,
@@ -4380,9 +4380,9 @@
           "city": "Manchester"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4399,27 +4399,27 @@
           "id": 33,
           "name": "Manchester United",
           "logo": "https://media-4.api-sports.io/football/teams/33.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 52,
           "name": "Crystal Palace",
           "logo": "https://media-4.api-sports.io/football/teams/52.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -4434,13 +4434,13 @@
     {
       "fixture": {
         "id": 1035102,
-        "referee": "T. Bramall",
+        "referee": "Thomas Bramall, England",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696082400,
+          "second": 1696086000
         },
         "venue": {
           "id": 562,
@@ -4448,9 +4448,9 @@
           "city": "Newcastle upon Tyne"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4467,27 +4467,27 @@
           "id": 34,
           "name": "Newcastle",
           "logo": "https://media-4.api-sports.io/football/teams/34.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 44,
           "name": "Burnley",
           "logo": "https://media-4.api-sports.io/football/teams/44.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -4502,13 +4502,13 @@
     {
       "fixture": {
         "id": 1035103,
-        "referee": "P. Tierney",
+        "referee": "Paul Tierney, England",
         "timezone": "UTC",
         "date": "2023-10-01T13:00:00+00:00",
         "timestamp": 1696165200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696165200,
+          "second": 1696168800
         },
         "venue": {
           "id": 566,
@@ -4516,9 +4516,9 @@
           "city": "Nottingham, Nottinghamshire"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4545,17 +4545,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -4570,13 +4570,13 @@
     {
       "fixture": {
         "id": 1035104,
-        "referee": "S. Hooper",
+        "referee": "Simon Hooper, England",
         "timezone": "UTC",
         "date": "2023-09-30T16:30:00+00:00",
         "timestamp": 1696091400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696091400,
+          "second": 1696095000
         },
         "venue": {
           "id": 593,
@@ -4584,9 +4584,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4603,27 +4603,27 @@
           "id": 47,
           "name": "Tottenham",
           "logo": "https://media-4.api-sports.io/football/teams/47.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 40,
           "name": "Liverpool",
           "logo": "https://media-4.api-sports.io/football/teams/40.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -4638,13 +4638,13 @@
     {
       "fixture": {
         "id": 1035105,
-        "referee": "G. Scott",
+        "referee": "Graham Scott, England",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696082400,
+          "second": 1696086000
         },
         "venue": {
           "id": 598,
@@ -4652,9 +4652,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4671,27 +4671,27 @@
           "id": 48,
           "name": "West Ham",
           "logo": "https://media-4.api-sports.io/football/teams/48.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 62,
           "name": "Sheffield Utd",
           "logo": "https://media-4.api-sports.io/football/teams/62.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -4706,13 +4706,13 @@
     {
       "fixture": {
         "id": 1035106,
-        "referee": "C. Pawson",
+        "referee": "Craig Pawson, England",
         "timezone": "UTC",
         "date": "2023-09-30T14:00:00+00:00",
         "timestamp": 1696082400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1696082400,
+          "second": 1696086000
         },
         "venue": {
           "id": 600,
@@ -4720,9 +4720,9 @@
           "city": "Wolverhampton, West Midlands"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -4739,27 +4739,27 @@
           "id": 39,
           "name": "Wolves",
           "logo": "https://media-4.api-sports.io/football/teams/39.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 50,
           "name": "Manchester City",
           "logo": "https://media-4.api-sports.io/football/teams/50.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -4774,7 +4774,7 @@
     {
       "fixture": {
         "id": 1035107,
-        "referee": null,
+        "referee": "M. Oliver",
         "timezone": "UTC",
         "date": "2023-10-08T15:30:00+00:00",
         "timestamp": 1696779000,
@@ -4842,7 +4842,7 @@
     {
       "fixture": {
         "id": 1035108,
-        "referee": null,
+        "referee": "A. Taylor",
         "timezone": "UTC",
         "date": "2023-10-08T13:00:00+00:00",
         "timestamp": 1696770000,
@@ -4910,7 +4910,7 @@
     {
       "fixture": {
         "id": 1035109,
-        "referee": null,
+        "referee": "S. Attwell",
         "timezone": "UTC",
         "date": "2023-10-07T14:00:00+00:00",
         "timestamp": 1696687200,
@@ -4978,7 +4978,7 @@
     {
       "fixture": {
         "id": 1035110,
-        "referee": null,
+        "referee": "C. Pawson",
         "timezone": "UTC",
         "date": "2023-10-07T16:30:00+00:00",
         "timestamp": 1696696200,
@@ -5046,7 +5046,7 @@
     {
       "fixture": {
         "id": 1035111,
-        "referee": null,
+        "referee": "D. Coote",
         "timezone": "UTC",
         "date": "2023-10-07T14:00:00+00:00",
         "timestamp": 1696687200,
@@ -5114,7 +5114,7 @@
     {
       "fixture": {
         "id": 1035112,
-        "referee": null,
+        "referee": "S. Barrott",
         "timezone": "UTC",
         "date": "2023-10-07T14:00:00+00:00",
         "timestamp": 1696687200,
@@ -5182,7 +5182,7 @@
     {
       "fixture": {
         "id": 1035113,
-        "referee": null,
+        "referee": "J. Brooks",
         "timezone": "UTC",
         "date": "2023-10-07T11:30:00+00:00",
         "timestamp": 1696678200,
@@ -5250,7 +5250,7 @@
     {
       "fixture": {
         "id": 1035114,
-        "referee": null,
+        "referee": "A. Madley",
         "timezone": "UTC",
         "date": "2023-10-07T14:00:00+00:00",
         "timestamp": 1696687200,
@@ -5318,7 +5318,7 @@
     {
       "fixture": {
         "id": 1035115,
-        "referee": null,
+        "referee": "P. Bankes",
         "timezone": "UTC",
         "date": "2023-10-08T13:00:00+00:00",
         "timestamp": 1696770000,
@@ -5386,7 +5386,7 @@
     {
       "fixture": {
         "id": 1035116,
-        "referee": null,
+        "referee": "R. Jones",
         "timezone": "UTC",
         "date": "2023-10-08T13:00:00+00:00",
         "timestamp": 1696770000,

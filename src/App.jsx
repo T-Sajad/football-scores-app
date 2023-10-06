@@ -1,6 +1,7 @@
-import { useState } from 'react'
+
 import './App.css'
-import Versus from './components/Fixtures.jsx'
+import Options from './components/Tabs.jsx'
+
 
 function App() {
 
@@ -8,7 +9,7 @@ function App() {
     <div>
       <div>
         <h1>Premier League</h1>
-        <Versus/>
+        <Options/>
       </div>
     </div>
   );

@@ -3,7 +3,7 @@ import {useState} from 'react'
 console.log(fixturedata)
 import { startOfDay, addDays, endOfDay } from 'date-fns'
 
-function Versus() {
+function Upcoming() {
   const fixture = fixturedata.response
   const [searchItem, setSearchItem] = useState('')
   //const [filteredUsers, setFilteredUsers] = useState(fixture)
@@ -42,12 +42,12 @@ function Versus() {
 
   return (
     <div>
-        <input 
+        {/* <input 
         type="text"
         value={searchItem}
         onChange={handleInputChange}
         placeholder='team'
-        />
+        /> */}
       <div>
         {filteredUsers.map((fixture, i) => (
           <div key={i}>
@@ -64,4 +64,4 @@ function Versus() {
   );
 }
 
-export default Versus;
+export default Upcoming;
