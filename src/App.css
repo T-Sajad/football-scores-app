@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+
+.TabList {
+  display: inline-block;
+  border-style: groove;
+  margin: 50px;
+  padding: 25px;
+  border-radius: 30px;
+}
+
+.Tab {
+  display: contents;
+}
+
+.Fixture {
+  border-style: groove;
+  margin: 100px;
+  padding: 25px;
+  border-radius: 30px;
+}

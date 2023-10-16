@@ -1,17 +1,15 @@
-import './App.css'
-import Options from './components/Tabs.jsx'
-
+import './App.css';
+import Options from './components/Tabs.jsx';
 
 function App() {
-
   return (
     <div>
       <div>
         <h1>Premier League</h1>
-        <Options/>
+        <Options />
       </div>
     </div>
   );
 }
 
-export default App
+export default App;
