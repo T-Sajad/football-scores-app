@@ -59,3 +59,8 @@
   padding: 25px;
   border-radius: 30px;
 }
+
+.TabList:hover {
+  border-color: red;
+  box-shadow: 3px 3px 15px 0px rgba(128, 0, 0, 1);
+}
