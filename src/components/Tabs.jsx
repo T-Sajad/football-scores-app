@@ -30,8 +30,8 @@ function Options() {
 
   return (
     <TabList
+      setCurrentPage={setCurrentPage}
       renderPage={renderPage}
-      setCurrentpage={setCurrentPage}
     />
   );
 }
