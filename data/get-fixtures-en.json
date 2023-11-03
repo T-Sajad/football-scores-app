@@ -5454,13 +5454,13 @@
     {
       "fixture": {
         "id": 1035117,
-        "referee": null,
+        "referee": "P. Tierney",
         "timezone": "UTC",
         "date": "2023-10-21T14:00:00+00:00",
         "timestamp": 1697896800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697896800,
+          "second": 1697900400
         },
         "venue": {
           "id": 504,
@@ -5468,9 +5468,9 @@
           "city": "Bournemouth, Dorset"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -5487,27 +5487,27 @@
           "id": 35,
           "name": "Bournemouth",
           "logo": "https://media-4.api-sports.io/football/teams/35.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 39,
           "name": "Wolves",
           "logo": "https://media-4.api-sports.io/football/teams/39.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -5522,13 +5522,13 @@
     {
       "fixture": {
         "id": 1035118,
-        "referee": null,
+        "referee": "D. Coote",
         "timezone": "UTC",
         "date": "2023-10-22T15:30:00+00:00",
         "timestamp": 1697988600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697988600,
+          "second": 1697992200
         },
         "venue": {
           "id": 495,
@@ -5536,9 +5536,9 @@
           "city": "Birmingham"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -5555,27 +5555,27 @@
           "id": 66,
           "name": "Aston Villa",
           "logo": "https://media-4.api-sports.io/football/teams/66.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 48,
           "name": "West Ham",
           "logo": "https://media-4.api-sports.io/football/teams/48.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -5590,13 +5590,13 @@
     {
       "fixture": {
         "id": 1035119,
-        "referee": null,
+        "referee": "J. Smith",
         "timezone": "UTC",
         "date": "2023-10-21T14:00:00+00:00",
         "timestamp": 1697896800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697896800,
+          "second": 1697900400
         },
         "venue": {
           "id": 10503,
@@ -5604,9 +5604,9 @@
           "city": "Brentford, Middlesex"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -5623,27 +5623,27 @@
           "id": 55,
           "name": "Brentford",
           "logo": "https://media-4.api-sports.io/football/teams/55.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 44,
           "name": "Burnley",
           "logo": "https://media-4.api-sports.io/football/teams/44.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -5658,13 +5658,13 @@
     {
       "fixture": {
         "id": 1035120,
-        "referee": null,
+        "referee": "C. Kavanagh",
         "timezone": "UTC",
         "date": "2023-10-21T16:30:00+00:00",
         "timestamp": 1697905800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697905800,
+          "second": 1697909400
         },
         "venue": {
           "id": 519,
@@ -5672,9 +5672,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -5701,17 +5701,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -5726,13 +5726,13 @@
     {
       "fixture": {
         "id": 1035121,
-        "referee": null,
+        "referee": "C. Pawson",
         "timezone": "UTC",
         "date": "2023-10-21T11:30:00+00:00",
         "timestamp": 1697887800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697887800,
+          "second": 1697891400
         },
         "venue": {
           "id": 550,
@@ -5740,9 +5740,9 @@
           "city": "Liverpool"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -5759,27 +5759,27 @@
           "id": 40,
           "name": "Liverpool",
           "logo": "https://media-4.api-sports.io/football/teams/40.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 45,
           "name": "Everton",
           "logo": "https://media-4.api-sports.io/football/teams/45.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -5794,13 +5794,13 @@
     {
       "fixture": {
         "id": 1035122,
-        "referee": null,
+        "referee": "R. Jones",
         "timezone": "UTC",
         "date": "2023-10-21T14:00:00+00:00",
         "timestamp": 1697896800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697896800,
+          "second": 1697900400
         },
         "venue": {
           "id": 555,
@@ -5808,9 +5808,9 @@
           "city": "Manchester"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -5827,27 +5827,27 @@
           "id": 50,
           "name": "Manchester City",
           "logo": "https://media-4.api-sports.io/football/teams/50.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 51,
           "name": "Brighton",
           "logo": "https://media-4.api-sports.io/football/teams/51.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -5862,13 +5862,13 @@
     {
       "fixture": {
         "id": 1035123,
-        "referee": null,
+        "referee": "T. Robinson",
         "timezone": "UTC",
         "date": "2023-10-21T14:00:00+00:00",
         "timestamp": 1697896800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697896800,
+          "second": 1697900400
         },
         "venue": {
           "id": 562,
@@ -5876,9 +5876,9 @@
           "city": "Newcastle upon Tyne"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -5895,27 +5895,27 @@
           "id": 34,
           "name": "Newcastle",
           "logo": "https://media-4.api-sports.io/football/teams/34.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 52,
           "name": "Crystal Palace",
           "logo": "https://media-4.api-sports.io/football/teams/52.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -5930,13 +5930,13 @@
     {
       "fixture": {
         "id": 1035124,
-        "referee": null,
+        "referee": "S. Barrott",
         "timezone": "UTC",
         "date": "2023-10-21T14:00:00+00:00",
         "timestamp": 1697896800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697896800,
+          "second": 1697900400
         },
         "venue": {
           "id": 566,
@@ -5944,9 +5944,9 @@
           "city": "Nottingham, Nottinghamshire"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -5973,17 +5973,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -5998,13 +5998,13 @@
     {
       "fixture": {
         "id": 1035125,
-        "referee": null,
+        "referee": "M. Oliver",
         "timezone": "UTC",
         "date": "2023-10-21T19:00:00+00:00",
         "timestamp": 1697914800,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1697914800,
+          "second": 1697918400
         },
         "venue": {
           "id": 581,
@@ -6012,9 +6012,9 @@
           "city": "Sheffield"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6031,27 +6031,27 @@
           "id": 62,
           "name": "Sheffield Utd",
           "logo": "https://media-4.api-sports.io/football/teams/62.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 33,
           "name": "Manchester United",
           "logo": "https://media-4.api-sports.io/football/teams/33.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -6066,13 +6066,13 @@
     {
       "fixture": {
         "id": 1035126,
-        "referee": null,
+        "referee": "A. Taylor",
         "timezone": "UTC",
         "date": "2023-10-23T19:00:00+00:00",
         "timestamp": 1698087600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698087600,
+          "second": 1698091200
         },
         "venue": {
           "id": 593,
@@ -6080,9 +6080,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6099,27 +6099,27 @@
           "id": 47,
           "name": "Tottenham",
           "logo": "https://media-4.api-sports.io/football/teams/47.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 36,
           "name": "Fulham",
           "logo": "https://media-4.api-sports.io/football/teams/36.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -6134,13 +6134,13 @@
     {
       "fixture": {
         "id": 1035127,
-        "referee": null,
+        "referee": "S. Barrott",
         "timezone": "UTC",
         "date": "2023-10-28T14:00:00+00:00",
         "timestamp": 1698501600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698501600,
+          "second": 1698505200
         },
         "venue": {
           "id": 504,
@@ -6148,9 +6148,9 @@
           "city": "Bournemouth, Dorset"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6167,27 +6167,27 @@
           "id": 35,
           "name": "Bournemouth",
           "logo": "https://media-4.api-sports.io/football/teams/35.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 44,
           "name": "Burnley",
           "logo": "https://media-4.api-sports.io/football/teams/44.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -6202,13 +6202,13 @@
     {
       "fixture": {
         "id": 1035128,
-        "referee": null,
+        "referee": "T. Robinson",
         "timezone": "UTC",
         "date": "2023-10-28T14:00:00+00:00",
         "timestamp": 1698501600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698501600,
+          "second": 1698505200
         },
         "venue": {
           "id": 494,
@@ -6216,9 +6216,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6235,27 +6235,27 @@
           "id": 42,
           "name": "Arsenal",
           "logo": "https://media-4.api-sports.io/football/teams/42.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 62,
           "name": "Sheffield Utd",
           "logo": "https://media-4.api-sports.io/football/teams/62.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 5,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -6270,13 +6270,13 @@
     {
       "fixture": {
         "id": 1035129,
-        "referee": null,
+        "referee": "J. Brooks",
         "timezone": "UTC",
-        "date": "2023-10-29T13:00:00+00:00",
-        "timestamp": 1698584400,
+        "date": "2023-10-29T14:00:00+00:00",
+        "timestamp": 1698588000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698588000,
+          "second": 1698591600
         },
         "venue": {
           "id": 495,
@@ -6284,9 +6284,9 @@
           "city": "Birmingham"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6303,27 +6303,27 @@
           "id": 66,
           "name": "Aston Villa",
           "logo": "https://media-4.api-sports.io/football/teams/66.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 1359,
           "name": "Luton",
           "logo": "https://media-4.api-sports.io/football/teams/1359.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -6338,13 +6338,13 @@
     {
       "fixture": {
         "id": 1035130,
-        "referee": null,
+        "referee": "M. Salisbury",
         "timezone": "UTC",
-        "date": "2023-10-29T13:00:00+00:00",
-        "timestamp": 1698584400,
+        "date": "2023-10-29T14:00:00+00:00",
+        "timestamp": 1698588000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698588000,
+          "second": 1698591600
         },
         "venue": {
           "id": 508,
@@ -6352,9 +6352,9 @@
           "city": "Falmer, East Sussex"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6381,17 +6381,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -6406,13 +6406,13 @@
     {
       "fixture": {
         "id": 1035131,
-        "referee": null,
+        "referee": "S. Hooper",
         "timezone": "UTC",
         "date": "2023-10-28T11:30:00+00:00",
         "timestamp": 1698492600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698492600,
+          "second": 1698496200
         },
         "venue": {
           "id": 519,
@@ -6420,9 +6420,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6439,27 +6439,27 @@
           "id": 49,
           "name": "Chelsea",
           "logo": "https://media-4.api-sports.io/football/teams/49.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 55,
           "name": "Brentford",
           "logo": "https://media-4.api-sports.io/football/teams/55.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -6474,13 +6474,13 @@
     {
       "fixture": {
         "id": 1035132,
-        "referee": null,
+        "referee": "A. Madley",
         "timezone": "UTC",
         "date": "2023-10-27T19:00:00+00:00",
         "timestamp": 1698433200,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698433200,
+          "second": 1698436800
         },
         "venue": {
           "id": 525,
@@ -6488,9 +6488,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6507,27 +6507,27 @@
           "id": 52,
           "name": "Crystal Palace",
           "logo": "https://media-4.api-sports.io/football/teams/52.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 47,
           "name": "Tottenham",
           "logo": "https://media-4.api-sports.io/football/teams/47.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -6542,13 +6542,13 @@
     {
       "fixture": {
         "id": 1035133,
-        "referee": null,
+        "referee": "C. Kavanagh",
         "timezone": "UTC",
-        "date": "2023-10-29T13:00:00+00:00",
-        "timestamp": 1698584400,
+        "date": "2023-10-29T14:00:00+00:00",
+        "timestamp": 1698588000,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698588000,
+          "second": 1698591600
         },
         "venue": {
           "id": 550,
@@ -6556,9 +6556,9 @@
           "city": "Liverpool"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6575,27 +6575,27 @@
           "id": 40,
           "name": "Liverpool",
           "logo": "https://media-4.api-sports.io/football/teams/40.png",
-          "winner": null
+          "winner": true
         },
         "away": {
           "id": 65,
           "name": "Nottingham Forest",
           "logo": "https://media-4.api-sports.io/football/teams/65.png",
-          "winner": null
+          "winner": false
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "extratime": {
           "home": null,
@@ -6610,13 +6610,13 @@
     {
       "fixture": {
         "id": 1035134,
-        "referee": null,
+        "referee": "P. Tierney",
         "timezone": "UTC",
-        "date": "2023-10-29T14:30:00+00:00",
-        "timestamp": 1698589800,
+        "date": "2023-10-29T15:30:00+00:00",
+        "timestamp": 1698593400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698593400,
+          "second": 1698597000
         },
         "venue": {
           "id": 556,
@@ -6624,9 +6624,9 @@
           "city": "Manchester"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6643,27 +6643,27 @@
           "id": 33,
           "name": "Manchester United",
           "logo": "https://media-4.api-sports.io/football/teams/33.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 50,
           "name": "Manchester City",
           "logo": "https://media-4.api-sports.io/football/teams/50.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 3
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "extratime": {
           "home": null,
@@ -6678,13 +6678,13 @@
     {
       "fixture": {
         "id": 1035135,
-        "referee": null,
+        "referee": "S. Attwell",
         "timezone": "UTC",
-        "date": "2023-10-29T12:00:00+00:00",
-        "timestamp": 1698580800,
+        "date": "2023-10-29T13:00:00+00:00",
+        "timestamp": 1698584400,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698584400,
+          "second": 1698588000
         },
         "venue": {
           "id": 598,
@@ -6692,9 +6692,9 @@
           "city": "London"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6711,27 +6711,27 @@
           "id": 48,
           "name": "West Ham",
           "logo": "https://media-4.api-sports.io/football/teams/48.png",
-          "winner": null
+          "winner": false
         },
         "away": {
           "id": 45,
           "name": "Everton",
           "logo": "https://media-4.api-sports.io/football/teams/45.png",
-          "winner": null
+          "winner": true
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "extratime": {
           "home": null,
@@ -6746,13 +6746,13 @@
     {
       "fixture": {
         "id": 1035136,
-        "referee": null,
+        "referee": "A. Taylor",
         "timezone": "UTC",
         "date": "2023-10-28T16:30:00+00:00",
         "timestamp": 1698510600,
         "periods": {
-          "first": null,
-          "second": null
+          "first": 1698510600,
+          "second": 1698514200
         },
         "venue": {
           "id": 600,
@@ -6760,9 +6760,9 @@
           "city": "Wolverhampton, West Midlands"
         },
         "status": {
-          "long": "Not Started",
-          "short": "NS",
-          "elapsed": null
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
         }
       },
       "league": {
@@ -6789,17 +6789,17 @@
         }
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "score": {
         "halftime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "fulltime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "extratime": {
           "home": null,
@@ -6814,7 +6814,7 @@
     {
       "fixture": {
         "id": 1035137,
-        "referee": null,
+        "referee": "T. Bramall",
         "timezone": "UTC",
         "date": "2023-11-04T15:00:00+00:00",
         "timestamp": 1699110000,
@@ -6882,7 +6882,7 @@
     {
       "fixture": {
         "id": 1035138,
-        "referee": null,
+        "referee": "P. Bankes",
         "timezone": "UTC",
         "date": "2023-11-04T15:00:00+00:00",
         "timestamp": 1699110000,
@@ -6950,7 +6950,7 @@
     {
       "fixture": {
         "id": 1035139,
-        "referee": null,
+        "referee": "T. Robinson",
         "timezone": "UTC",
         "date": "2023-11-04T15:00:00+00:00",
         "timestamp": 1699110000,
@@ -7018,7 +7018,7 @@
     {
       "fixture": {
         "id": 1035140,
-        "referee": null,
+        "referee": "J. Brooks",
         "timezone": "UTC",
         "date": "2023-11-04T12:30:00+00:00",
         "timestamp": 1699101000,
@@ -7086,7 +7086,7 @@
     {
       "fixture": {
         "id": 1035141,
-        "referee": null,
+        "referee": "A. Madley",
         "timezone": "UTC",
         "date": "2023-11-05T16:30:00+00:00",
         "timestamp": 1699201800,
@@ -7154,7 +7154,7 @@
     {
       "fixture": {
         "id": 1035142,
-        "referee": null,
+        "referee": "C. Pawson",
         "timezone": "UTC",
         "date": "2023-11-04T15:00:00+00:00",
         "timestamp": 1699110000,
@@ -7222,7 +7222,7 @@
     {
       "fixture": {
         "id": 1035143,
-        "referee": null,
+        "referee": "S. Attwell",
         "timezone": "UTC",
         "date": "2023-11-04T17:30:00+00:00",
         "timestamp": 1699119000,
@@ -7290,7 +7290,7 @@
     {
       "fixture": {
         "id": 1035144,
-        "referee": null,
+        "referee": "J. Gillett",
         "timezone": "UTC",
         "date": "2023-11-05T14:00:00+00:00",
         "timestamp": 1699192800,
@@ -7358,7 +7358,7 @@
     {
       "fixture": {
         "id": 1035145,
-        "referee": null,
+        "referee": "R. Jones",
         "timezone": "UTC",
         "date": "2023-11-04T15:00:00+00:00",
         "timestamp": 1699110000,
@@ -7426,7 +7426,7 @@
     {
       "fixture": {
         "id": 1035146,
-        "referee": null,
+        "referee": "M. Oliver",
         "timezone": "UTC",
         "date": "2023-11-06T20:00:00+00:00",
         "timestamp": 1699300800,
@@ -8856,8 +8856,8 @@
         "id": 1035304,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-02T15:00:00+00:00",
-        "timestamp": 1701529200,
+        "date": "2023-12-03T14:00:00+00:00",
+        "timestamp": 1701612000,
         "periods": {
           "first": null,
           "second": null
@@ -9128,8 +9128,8 @@
         "id": 1035308,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-02T15:00:00+00:00",
-        "timestamp": 1701529200,
+        "date": "2023-12-03T14:00:00+00:00",
+        "timestamp": 1701612000,
         "periods": {
           "first": null,
           "second": null
@@ -9196,8 +9196,8 @@
         "id": 1035309,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-02T15:00:00+00:00",
-        "timestamp": 1701529200,
+        "date": "2023-12-03T14:00:00+00:00",
+        "timestamp": 1701612000,
         "periods": {
           "first": null,
           "second": null
@@ -9264,8 +9264,8 @@
         "id": 1035310,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-02T15:00:00+00:00",
-        "timestamp": 1701529200,
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000,
         "periods": {
           "first": null,
           "second": null
@@ -9332,8 +9332,8 @@
         "id": 1035311,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-02T15:00:00+00:00",
-        "timestamp": 1701529200,
+        "date": "2023-12-02T20:00:00+00:00",
+        "timestamp": 1701547200,
         "periods": {
           "first": null,
           "second": null
@@ -9400,8 +9400,8 @@
         "id": 1035312,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-02T15:00:00+00:00",
-        "timestamp": 1701529200,
+        "date": "2023-12-02T17:30:00+00:00",
+        "timestamp": 1701538200,
         "periods": {
           "first": null,
           "second": null
@@ -9468,8 +9468,8 @@
         "id": 1035313,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-02T15:00:00+00:00",
-        "timestamp": 1701529200,
+        "date": "2023-12-03T14:00:00+00:00",
+        "timestamp": 1701612000,
         "periods": {
           "first": null,
           "second": null
@@ -9536,8 +9536,8 @@
         "id": 1035314,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T19:45:00+00:00",
-        "timestamp": 1701805500,
+        "date": "2023-12-06T20:15:00+00:00",
+        "timestamp": 1701893700,
         "periods": {
           "first": null,
           "second": null
@@ -9604,8 +9604,8 @@
         "id": 1035315,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T19:45:00+00:00",
-        "timestamp": 1701805500,
+        "date": "2023-12-06T19:30:00+00:00",
+        "timestamp": 1701891000,
         "periods": {
           "first": null,
           "second": null
@@ -9672,8 +9672,8 @@
         "id": 1035316,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T19:45:00+00:00",
-        "timestamp": 1701805500,
+        "date": "2023-12-07T19:30:00+00:00",
+        "timestamp": 1701977400,
         "periods": {
           "first": null,
           "second": null
@@ -9740,8 +9740,8 @@
         "id": 1035317,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T19:45:00+00:00",
-        "timestamp": 1701805500,
+        "date": "2023-12-06T19:30:00+00:00",
+        "timestamp": 1701891000,
         "periods": {
           "first": null,
           "second": null
@@ -9808,8 +9808,8 @@
         "id": 1035318,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T19:45:00+00:00",
-        "timestamp": 1701805500,
+        "date": "2023-12-05T20:15:00+00:00",
+        "timestamp": 1701807300,
         "periods": {
           "first": null,
           "second": null
@@ -9876,8 +9876,8 @@
         "id": 1035319,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T19:45:00+00:00",
-        "timestamp": 1701805500,
+        "date": "2023-12-06T19:30:00+00:00",
+        "timestamp": 1701891000,
         "periods": {
           "first": null,
           "second": null
@@ -9944,8 +9944,8 @@
         "id": 1035320,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T19:45:00+00:00",
-        "timestamp": 1701805500,
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100,
         "periods": {
           "first": null,
           "second": null
@@ -10012,8 +10012,8 @@
         "id": 1035321,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T19:45:00+00:00",
-        "timestamp": 1701805500,
+        "date": "2023-12-05T19:30:00+00:00",
+        "timestamp": 1701804600,
         "periods": {
           "first": null,
           "second": null
@@ -10080,8 +10080,8 @@
         "id": 1035322,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-05T20:00:00+00:00",
-        "timestamp": 1701806400,
+        "date": "2023-12-06T19:30:00+00:00",
+        "timestamp": 1701891000,
         "periods": {
           "first": null,
           "second": null
@@ -10148,8 +10148,8 @@
         "id": 1035323,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-06T20:00:00+00:00",
-        "timestamp": 1701892800,
+        "date": "2023-12-06T20:15:00+00:00",
+        "timestamp": 1701893700,
         "periods": {
           "first": null,
           "second": null
@@ -10216,8 +10216,8 @@
         "id": 1035324,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-09T15:00:00+00:00",
-        "timestamp": 1702134000,
+        "date": "2023-12-09T17:30:00+00:00",
+        "timestamp": 1702143000,
         "periods": {
           "first": null,
           "second": null
@@ -10352,8 +10352,8 @@
         "id": 1035326,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-09T15:00:00+00:00",
-        "timestamp": 1702134000,
+        "date": "2023-12-09T12:30:00+00:00",
+        "timestamp": 1702125000,
         "periods": {
           "first": null,
           "second": null
@@ -10420,8 +10420,8 @@
         "id": 1035327,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-09T15:00:00+00:00",
-        "timestamp": 1702134000,
+        "date": "2023-12-10T14:00:00+00:00",
+        "timestamp": 1702216800,
         "periods": {
           "first": null,
           "second": null
@@ -10488,8 +10488,8 @@
         "id": 1035328,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-09T15:00:00+00:00",
-        "timestamp": 1702134000,
+        "date": "2023-12-10T14:00:00+00:00",
+        "timestamp": 1702216800,
         "periods": {
           "first": null,
           "second": null
@@ -10556,8 +10556,8 @@
         "id": 1035329,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-09T15:00:00+00:00",
-        "timestamp": 1702134000,
+        "date": "2023-12-10T14:00:00+00:00",
+        "timestamp": 1702216800,
         "periods": {
           "first": null,
           "second": null
@@ -10760,8 +10760,8 @@
         "id": 1035332,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-09T15:00:00+00:00",
-        "timestamp": 1702134000,
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800,
         "periods": {
           "first": null,
           "second": null
@@ -10964,8 +10964,8 @@
         "id": 1035335,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-16T15:00:00+00:00",
-        "timestamp": 1702738800,
+        "date": "2023-12-17T14:00:00+00:00",
+        "timestamp": 1702821600,
         "periods": {
           "first": null,
           "second": null
@@ -11032,8 +11032,8 @@
         "id": 1035336,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-16T15:00:00+00:00",
-        "timestamp": 1702738800,
+        "date": "2023-12-17T14:00:00+00:00",
+        "timestamp": 1702821600,
         "periods": {
           "first": null,
           "second": null
@@ -11100,8 +11100,8 @@
         "id": 1035337,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-16T15:00:00+00:00",
-        "timestamp": 1702738800,
+        "date": "2023-12-16T17:30:00+00:00",
+        "timestamp": 1702747800,
         "periods": {
           "first": null,
           "second": null
@@ -11236,8 +11236,8 @@
         "id": 1035339,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-16T15:00:00+00:00",
-        "timestamp": 1702738800,
+        "date": "2023-12-17T16:30:00+00:00",
+        "timestamp": 1702830600,
         "periods": {
           "first": null,
           "second": null
@@ -11440,8 +11440,8 @@
         "id": 1035342,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-16T15:00:00+00:00",
-        "timestamp": 1702738800,
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400,
         "periods": {
           "first": null,
           "second": null
@@ -11508,8 +11508,8 @@
         "id": 1035343,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-16T15:00:00+00:00",
-        "timestamp": 1702738800,
+        "date": "2023-12-17T14:00:00+00:00",
+        "timestamp": 1702821600,
         "periods": {
           "first": null,
           "second": null
@@ -11576,8 +11576,8 @@
         "id": 1035344,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-23T15:00:00+00:00",
-        "timestamp": 1703343600,
+        "date": "2023-12-22T20:00:00+00:00",
+        "timestamp": 1703275200,
         "periods": {
           "first": null,
           "second": null
@@ -11644,8 +11644,8 @@
         "id": 1035345,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-23T15:00:00+00:00",
-        "timestamp": 1703343600,
+        "date": "2023-12-21T20:00:00+00:00",
+        "timestamp": 1703188800,
         "periods": {
           "first": null,
           "second": null
@@ -11780,8 +11780,8 @@
         "id": 1035347,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-23T15:00:00+00:00",
-        "timestamp": 1703343600,
+        "date": "2023-12-23T17:30:00+00:00",
+        "timestamp": 1703352600,
         "periods": {
           "first": null,
           "second": null
@@ -12120,8 +12120,8 @@
         "id": 1035352,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-23T15:00:00+00:00",
-        "timestamp": 1703343600,
+        "date": "2023-12-23T12:30:00+00:00",
+        "timestamp": 1703334600,
         "periods": {
           "first": null,
           "second": null
@@ -12188,8 +12188,8 @@
         "id": 1035353,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-23T15:00:00+00:00",
-        "timestamp": 1703343600,
+        "date": "2023-12-24T13:00:00+00:00",
+        "timestamp": 1703422800,
         "periods": {
           "first": null,
           "second": null
@@ -12324,8 +12324,8 @@
         "id": 1035355,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-26T15:00:00+00:00",
-        "timestamp": 1703602800,
+        "date": "2023-12-28T20:15:00+00:00",
+        "timestamp": 1703794500,
         "periods": {
           "first": null,
           "second": null
@@ -12392,8 +12392,8 @@
         "id": 1035356,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-26T15:00:00+00:00",
-        "timestamp": 1703602800,
+        "date": "2023-12-27T19:30:00+00:00",
+        "timestamp": 1703705400,
         "periods": {
           "first": null,
           "second": null
@@ -12460,8 +12460,8 @@
         "id": 1035357,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-26T15:00:00+00:00",
-        "timestamp": 1703602800,
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800,
         "periods": {
           "first": null,
           "second": null
@@ -12528,8 +12528,8 @@
         "id": 1035358,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-26T15:00:00+00:00",
-        "timestamp": 1703602800,
+        "date": "2023-12-26T17:30:00+00:00",
+        "timestamp": 1703611800,
         "periods": {
           "first": null,
           "second": null
@@ -12596,8 +12596,8 @@
         "id": 1035359,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-26T15:00:00+00:00",
-        "timestamp": 1703602800,
+        "date": "2023-12-27T19:30:00+00:00",
+        "timestamp": 1703705400,
         "periods": {
           "first": null,
           "second": null
@@ -12664,8 +12664,8 @@
         "id": 1035360,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-26T15:00:00+00:00",
-        "timestamp": 1703602800,
+        "date": "2023-12-27T20:15:00+00:00",
+        "timestamp": 1703708100,
         "periods": {
           "first": null,
           "second": null
@@ -12732,8 +12732,8 @@
         "id": 1035361,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-26T15:00:00+00:00",
-        "timestamp": 1703602800,
+        "date": "2023-12-26T20:00:00+00:00",
+        "timestamp": 1703620800,
         "periods": {
           "first": null,
           "second": null
@@ -12800,8 +12800,8 @@
         "id": 1035362,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-26T15:00:00+00:00",
-        "timestamp": 1703602800,
+        "date": "2023-12-26T12:30:00+00:00",
+        "timestamp": 1703593800,
         "periods": {
           "first": null,
           "second": null
@@ -13072,8 +13072,8 @@
         "id": 1035366,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-30T15:00:00+00:00",
-        "timestamp": 1703948400,
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200,
         "periods": {
           "first": null,
           "second": null
@@ -13140,8 +13140,8 @@
         "id": 1035367,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-30T15:00:00+00:00",
-        "timestamp": 1703948400,
+        "date": "2024-01-01T20:00:00+00:00",
+        "timestamp": 1704139200,
         "periods": {
           "first": null,
           "second": null
@@ -13208,8 +13208,8 @@
         "id": 1035368,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-30T15:00:00+00:00",
-        "timestamp": 1703948400,
+        "date": "2023-12-30T12:30:00+00:00",
+        "timestamp": 1703939400,
         "periods": {
           "first": null,
           "second": null
@@ -13344,8 +13344,8 @@
         "id": 1035370,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-30T15:00:00+00:00",
-        "timestamp": 1703948400,
+        "date": "2023-12-30T17:30:00+00:00",
+        "timestamp": 1703957400,
         "periods": {
           "first": null,
           "second": null
@@ -13412,8 +13412,8 @@
         "id": 1035371,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-30T15:00:00+00:00",
-        "timestamp": 1703948400,
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200,
         "periods": {
           "first": null,
           "second": null
@@ -13480,8 +13480,8 @@
         "id": 1035372,
         "referee": null,
         "timezone": "UTC",
-        "date": "2023-12-30T15:00:00+00:00",
-        "timestamp": 1703948400,
+        "date": "2024-01-02T19:30:00+00:00",
+        "timestamp": 1704223800,
         "periods": {
           "first": null,
           "second": null
@@ -13616,8 +13616,8 @@
         "id": 1035374,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-21T16:30:00+00:00",
+        "timestamp": 1705854600,
         "periods": {
           "first": null,
           "second": null
@@ -13684,8 +13684,8 @@
         "id": 1035375,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-20T12:30:00+00:00",
+        "timestamp": 1705753800,
         "periods": {
           "first": null,
           "second": null
@@ -13752,8 +13752,8 @@
         "id": 1035376,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-20T17:30:00+00:00",
+        "timestamp": 1705771800,
         "periods": {
           "first": null,
           "second": null
@@ -13820,8 +13820,8 @@
         "id": 1035377,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-22T19:45:00+00:00",
+        "timestamp": 1705952700,
         "periods": {
           "first": null,
           "second": null
@@ -13888,8 +13888,8 @@
         "id": 1035378,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-15T19:45:00+00:00",
+        "timestamp": 1705347900,
         "periods": {
           "first": null,
           "second": null
@@ -13956,8 +13956,8 @@
         "id": 1035379,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-13T12:30:00+00:00",
+        "timestamp": 1705149000,
         "periods": {
           "first": null,
           "second": null
@@ -14024,8 +14024,8 @@
         "id": 1035380,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-14T14:00:00+00:00",
+        "timestamp": 1705240800,
         "periods": {
           "first": null,
           "second": null
@@ -14092,8 +14092,8 @@
         "id": 1035381,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800,
         "periods": {
           "first": null,
           "second": null
@@ -14160,8 +14160,8 @@
         "id": 1035382,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-13T17:30:00+00:00",
+        "timestamp": 1705167000,
         "periods": {
           "first": null,
           "second": null
@@ -14228,8 +14228,8 @@
         "id": 1035383,
         "referee": null,
         "timezone": "UTC",
-        "date": "2024-01-13T15:00:00+00:00",
-        "timestamp": 1705158000,
+        "date": "2024-01-21T14:00:00+00:00",
+        "timestamp": 1705845600,
         "periods": {
           "first": null,
           "second": null
