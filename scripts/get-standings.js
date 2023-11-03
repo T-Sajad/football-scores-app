@@ -2,7 +2,7 @@ import 'dotenv/config';
 import fs from 'node:fs';
 
 const url =
-  'https://api-football-v1.p.rapidapi.com/standings?season=2023&league=39&team=47';
+  'https://api-football-beta.p.rapidapi.com/standings?season=2023&league=39';
 const options = {
   method: 'GET',
   headers: {
