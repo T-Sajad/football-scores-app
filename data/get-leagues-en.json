@@ -15,12 +15,12 @@
         "id": 39,
         "name": "Premier League",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/39.png"
+        "logo": "https://media.api-sports.io/football/leagues/39.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -338,12 +338,12 @@
         "id": 179,
         "name": "Premiership",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/179.png"
+        "logo": "https://media.api-sports.io/football/leagues/179.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -661,12 +661,12 @@
         "id": 180,
         "name": "Championship",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/180.png"
+        "logo": "https://media.api-sports.io/football/leagues/180.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -984,12 +984,12 @@
         "id": 110,
         "name": "Premier League",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/110.png"
+        "logo": "https://media.api-sports.io/football/leagues/110.png"
       },
       "country": {
         "name": "Wales",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -1285,12 +1285,12 @@
         "id": 112,
         "name": "Welsh Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/112.png"
+        "logo": "https://media.api-sports.io/football/leagues/112.png"
       },
       "country": {
         "name": "Wales",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -1538,20 +1538,20 @@
         {
           "year": 2023,
           "start": "2023-09-15",
-          "end": "2023-09-16",
+          "end": "2023-12-08",
           "current": true,
           "coverage": {
             "fixtures": {
-              "events": false,
-              "lineups": false,
+              "events": true,
+              "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
             },
             "standings": false,
-            "players": false,
-            "top_scorers": false,
-            "top_assists": false,
-            "top_cards": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
             "injuries": false,
             "predictions": true,
             "odds": true
@@ -1564,12 +1564,12 @@
         "id": 40,
         "name": "Championship",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/40.png"
+        "logo": "https://media.api-sports.io/football/leagues/40.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -1865,12 +1865,12 @@
         "id": 46,
         "name": "EFL Trophy",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/46.png"
+        "logo": "https://media.api-sports.io/football/leagues/46.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -2140,7 +2140,7 @@
         {
           "year": 2023,
           "start": "2023-08-22",
-          "end": "2023-11-21",
+          "end": "2024-01-09",
           "current": true,
           "coverage": {
             "fixtures": {
@@ -2166,12 +2166,12 @@
         "id": 45,
         "name": "FA Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/45.png"
+        "logo": "https://media.api-sports.io/football/leagues/45.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -2441,20 +2441,20 @@
         {
           "year": 2023,
           "start": "2023-08-04",
-          "end": "2023-09-30",
+          "end": "2024-01-08",
           "current": true,
           "coverage": {
             "fixtures": {
-              "events": false,
-              "lineups": false,
-              "statistics_fixtures": false,
-              "statistics_players": false
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": true,
+              "statistics_players": true
             },
             "standings": false,
-            "players": false,
-            "top_scorers": false,
-            "top_assists": false,
-            "top_cards": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
             "injuries": false,
             "predictions": true,
             "odds": true
@@ -2467,12 +2467,12 @@
         "id": 47,
         "name": "FA Trophy",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/47.png"
+        "logo": "https://media.api-sports.io/football/leagues/47.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -2742,23 +2742,23 @@
         {
           "year": 2023,
           "start": "2023-09-08",
-          "end": "2023-09-23",
+          "end": "2024-01-13",
           "current": true,
           "coverage": {
             "fixtures": {
-              "events": false,
-              "lineups": false,
+              "events": true,
+              "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
             },
             "standings": false,
-            "players": false,
-            "top_scorers": false,
-            "top_assists": false,
-            "top_cards": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -2768,12 +2768,12 @@
         "id": 48,
         "name": "League Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/48.png"
+        "logo": "https://media.api-sports.io/football/leagues/48.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -3043,7 +3043,7 @@
         {
           "year": 2023,
           "start": "2023-08-08",
-          "end": "2023-09-26",
+          "end": "2023-12-19",
           "current": true,
           "coverage": {
             "fixtures": {
@@ -3069,12 +3069,12 @@
         "id": 43,
         "name": "National League",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/43.png"
+        "logo": "https://media.api-sports.io/football/leagues/43.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -3370,12 +3370,12 @@
         "id": 41,
         "name": "League One",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/41.png"
+        "logo": "https://media.api-sports.io/football/leagues/41.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -3671,12 +3671,12 @@
         "id": 42,
         "name": "League Two",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/42.png"
+        "logo": "https://media.api-sports.io/football/leagues/42.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -3972,12 +3972,12 @@
         "id": 528,
         "name": "Community Shield",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/528.png"
+        "logo": "https://media.api-sports.io/football/leagues/528.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -4251,12 +4251,12 @@
         "id": 183,
         "name": "League One",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/183.png"
+        "logo": "https://media.api-sports.io/football/leagues/183.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -4464,12 +4464,12 @@
         "id": 184,
         "name": "League Two",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/184.png"
+        "logo": "https://media.api-sports.io/football/leagues/184.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -4677,12 +4677,12 @@
         "id": 44,
         "name": "FA WSL",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/44.png"
+        "logo": "https://media.api-sports.io/football/leagues/44.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -4846,10 +4846,10 @@
           "current": true,
           "coverage": {
             "fixtures": {
-              "events": false,
-              "lineups": false,
-              "statistics_fixtures": false,
-              "statistics_players": false
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": true,
+              "statistics_players": true
             },
             "standings": true,
             "players": true,
@@ -4858,7 +4858,7 @@
             "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -4868,12 +4868,12 @@
         "id": 185,
         "name": "League Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/185.png"
+        "logo": "https://media.api-sports.io/football/leagues/185.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -5011,7 +5011,7 @@
         {
           "year": 2023,
           "start": "2023-07-15",
-          "end": "2023-09-26",
+          "end": "2023-12-17",
           "current": true,
           "coverage": {
             "fixtures": {
@@ -5027,7 +5027,7 @@
             "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -5037,12 +5037,12 @@
         "id": 559,
         "name": "League Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/559.png"
+        "logo": "https://media.api-sports.io/football/leagues/559.png"
       },
       "country": {
         "name": "Northern-Ireland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -5158,23 +5158,23 @@
         {
           "year": 2023,
           "start": "2023-08-19",
-          "end": "2023-10-03",
+          "end": "2024-01-16",
           "current": true,
           "coverage": {
             "fixtures": {
               "events": true,
-              "lineups": false,
+              "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
             },
             "standings": false,
-            "players": false,
-            "top_scorers": false,
-            "top_assists": false,
-            "top_cards": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -5184,12 +5184,12 @@
         "id": 561,
         "name": "Premier Intermediate League",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/561.png"
+        "logo": "https://media.api-sports.io/football/leagues/561.png"
       },
       "country": {
         "name": "Northern-Ireland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -5331,12 +5331,12 @@
         "id": 407,
         "name": "Championship",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/407.png"
+        "logo": "https://media.api-sports.io/football/leagues/407.png"
       },
       "country": {
         "name": "Northern-Ireland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -5500,12 +5500,12 @@
         "id": 408,
         "name": "Premiership",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/408.png"
+        "logo": "https://media.api-sports.io/football/leagues/408.png"
       },
       "country": {
         "name": "Northern-Ireland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -5669,12 +5669,12 @@
         "id": 111,
         "name": "FAW Championship",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/111.png"
+        "logo": "https://media.api-sports.io/football/leagues/111.png"
       },
       "country": {
         "name": "Wales",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -5794,12 +5794,12 @@
         "id": 49,
         "name": "National League - Play-offs",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/49.png"
+        "logo": "https://media.api-sports.io/football/leagues/49.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -5831,12 +5831,12 @@
         "id": 181,
         "name": "FA Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/181.png"
+        "logo": "https://media.api-sports.io/football/leagues/181.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -5930,20 +5930,20 @@
         {
           "year": 2023,
           "start": "2023-08-12",
-          "end": "2023-09-23",
+          "end": "2024-01-20",
           "current": true,
           "coverage": {
             "fixtures": {
-              "events": false,
-              "lineups": false,
+              "events": true,
+              "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
             },
             "standings": false,
-            "players": false,
-            "top_scorers": false,
-            "top_assists": false,
-            "top_cards": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
             "injuries": false,
             "predictions": true,
             "odds": false
@@ -5956,12 +5956,12 @@
         "id": 182,
         "name": "Challenge Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/182.png"
+        "logo": "https://media.api-sports.io/football/leagues/182.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -6033,7 +6033,7 @@
         {
           "year": 2023,
           "start": "2023-08-01",
-          "end": "2023-10-14",
+          "end": "2024-02-03",
           "current": true,
           "coverage": {
             "fixtures": {
@@ -6059,12 +6059,12 @@
         "id": 50,
         "name": "National League - North",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/50.png"
+        "logo": "https://media.api-sports.io/football/leagues/50.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -6174,7 +6174,7 @@
             "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -6184,12 +6184,12 @@
         "id": 51,
         "name": "National League - South",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/51.png"
+        "logo": "https://media.api-sports.io/football/leagues/51.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -6299,7 +6299,7 @@
             "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -6309,12 +6309,12 @@
         "id": 52,
         "name": "Non League Div One - Isthmian North",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/52.png"
+        "logo": "https://media.api-sports.io/football/leagues/52.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -6434,12 +6434,12 @@
         "id": 53,
         "name": "Non League Div One - Isthmian South Central",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/53.png"
+        "logo": "https://media.api-sports.io/football/leagues/53.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -6559,12 +6559,12 @@
         "id": 54,
         "name": "Non League Div One - Northern West",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/54.png"
+        "logo": "https://media.api-sports.io/football/leagues/54.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -6662,12 +6662,12 @@
         "id": 55,
         "name": "Non League Div One - Northern Midlands",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/55.png"
+        "logo": "https://media.api-sports.io/football/leagues/55.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -6765,12 +6765,12 @@
         "id": 56,
         "name": "Non League Div One - Southern South",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/56.png"
+        "logo": "https://media.api-sports.io/football/leagues/56.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -6890,12 +6890,12 @@
         "id": 57,
         "name": "Non League Div One - Isthmian South East",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/57.png"
+        "logo": "https://media.api-sports.io/football/leagues/57.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7015,12 +7015,12 @@
         "id": 58,
         "name": "Non League Premier - Isthmian",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/58.png"
+        "logo": "https://media.api-sports.io/football/leagues/58.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7140,12 +7140,12 @@
         "id": 59,
         "name": "Non League Premier - Northern",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/59.png"
+        "logo": "https://media.api-sports.io/football/leagues/59.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7265,12 +7265,12 @@
         "id": 60,
         "name": "Non League Premier - Southern South",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/60.png"
+        "logo": "https://media.api-sports.io/football/leagues/60.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7390,12 +7390,12 @@
         "id": 698,
         "name": "FA Women's Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/698.png"
+        "logo": "https://media.api-sports.io/football/leagues/698.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7468,7 +7468,7 @@
           "year": 2022,
           "start": "2022-11-13",
           "end": "2023-05-14",
-          "current": true,
+          "current": false,
           "coverage": {
             "fixtures": {
               "events": true,
@@ -7485,6 +7485,28 @@
             "predictions": true,
             "odds": false
           }
+        },
+        {
+          "year": 2023,
+          "start": "2023-10-22",
+          "end": "2024-01-14",
+          "current": true,
+          "coverage": {
+            "fixtures": {
+              "events": true,
+              "lineups": false,
+              "statistics_fixtures": false,
+              "statistics_players": false
+            },
+            "standings": false,
+            "players": false,
+            "top_scorers": false,
+            "top_assists": false,
+            "top_cards": false,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         }
       ]
     },
@@ -7493,12 +7515,12 @@
         "id": 670,
         "name": "Community Shield Women",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/670.png"
+        "logo": "https://media.api-sports.io/football/leagues/670.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7530,12 +7552,12 @@
         "id": 695,
         "name": "U18 Premier League - North",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/695.png"
+        "logo": "https://media.api-sports.io/football/leagues/695.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7633,12 +7655,12 @@
         "id": 696,
         "name": "U18 Premier League - South",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/696.png"
+        "logo": "https://media.api-sports.io/football/leagues/696.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7736,12 +7758,12 @@
         "id": 697,
         "name": "WSL Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/697.png"
+        "logo": "https://media.api-sports.io/football/leagues/697.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7817,19 +7839,19 @@
           "current": true,
           "coverage": {
             "fixtures": {
-              "events": false,
-              "lineups": false,
+              "events": true,
+              "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
             },
             "standings": false,
-            "players": false,
-            "top_scorers": false,
-            "top_assists": false,
-            "top_cards": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -7839,12 +7861,12 @@
         "id": 699,
         "name": "Women's Championship",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/699.png"
+        "logo": "https://media.api-sports.io/football/leagues/699.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -7932,7 +7954,7 @@
             "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": true
+            "odds": false
           }
         }
       ]
@@ -7942,12 +7964,12 @@
         "id": 702,
         "name": "Premier League 2 Division One",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/702.png"
+        "logo": "https://media.api-sports.io/football/leagues/702.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8045,12 +8067,12 @@
         "id": 703,
         "name": "Professional Development League",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/703.png"
+        "logo": "https://media.api-sports.io/football/leagues/703.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8148,12 +8170,12 @@
         "id": 730,
         "name": "Football League - Highland League",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/730.png"
+        "logo": "https://media.api-sports.io/football/leagues/730.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8251,12 +8273,12 @@
         "id": 731,
         "name": "Football League - Lowland League",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/731.png"
+        "logo": "https://media.api-sports.io/football/leagues/731.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8344,7 +8366,7 @@
             "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -8354,12 +8376,12 @@
         "id": 738,
         "name": "League Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/738.png"
+        "logo": "https://media.api-sports.io/football/leagues/738.png"
       },
       "country": {
         "name": "Wales",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8431,23 +8453,23 @@
         {
           "year": 2023,
           "start": "2023-07-21",
-          "end": "2023-09-19",
+          "end": "2024-01-03",
           "current": true,
           "coverage": {
             "fixtures": {
               "events": true,
-              "lineups": false,
+              "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
             },
             "standings": false,
-            "players": false,
-            "top_scorers": false,
-            "top_assists": false,
-            "top_cards": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": true
+            "odds": false
           }
         }
       ]
@@ -8457,12 +8479,12 @@
         "id": 757,
         "name": "Irish Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/757.png"
+        "logo": "https://media.api-sports.io/football/leagues/757.png"
       },
       "country": {
         "name": "Northern-Ireland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8534,7 +8556,7 @@
         {
           "year": 2023,
           "start": "2023-10-28",
-          "end": "2023-10-28",
+          "end": "2024-01-06",
           "current": true,
           "coverage": {
             "fixtures": {
@@ -8560,12 +8582,12 @@
         "id": 871,
         "name": "Premier League Cup",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/871.png"
+        "logo": "https://media.api-sports.io/football/leagues/871.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8641,12 +8663,12 @@
         "id": 931,
         "name": "Non League Premier - Southern Central",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/931.png"
+        "logo": "https://media.api-sports.io/football/leagues/931.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8690,7 +8712,7 @@
             "top_cards": true,
             "injuries": false,
             "predictions": true,
-            "odds": false
+            "odds": true
           }
         }
       ]
@@ -8700,12 +8722,12 @@
         "id": 932,
         "name": "Non League Div One - Northern East",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/932.png"
+        "logo": "https://media.api-sports.io/football/leagues/932.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8759,12 +8781,12 @@
         "id": 933,
         "name": "Non League Div One - Southern Central",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/933.png"
+        "logo": "https://media.api-sports.io/football/leagues/933.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8818,12 +8840,12 @@
         "id": 984,
         "name": "National League - North - Play-offs",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/984.png"
+        "logo": "https://media.api-sports.io/football/leagues/984.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8855,12 +8877,12 @@
         "id": 985,
         "name": "National League - South - Play-offs",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/985.png"
+        "logo": "https://media.api-sports.io/football/leagues/985.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8892,12 +8914,12 @@
         "id": 986,
         "name": "Non League Div One - Play-offs",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/986.png"
+        "logo": "https://media.api-sports.io/football/leagues/986.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8929,12 +8951,12 @@
         "id": 987,
         "name": "U18 Premier League - Championship",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/987.png"
+        "logo": "https://media.api-sports.io/football/leagues/987.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -8966,12 +8988,12 @@
         "id": 992,
         "name": "Football League - Championship",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/992.png"
+        "logo": "https://media.api-sports.io/football/leagues/992.png"
       },
       "country": {
         "name": "Scotland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -9003,12 +9025,12 @@
         "id": 993,
         "name": "Non League Premier - Isthmian - Play-offs",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/993.png"
+        "logo": "https://media.api-sports.io/football/leagues/993.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -9040,12 +9062,12 @@
         "id": 994,
         "name": "Non League Premier - Northern - Play-offs",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/994.png"
+        "logo": "https://media.api-sports.io/football/leagues/994.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -9077,12 +9099,12 @@
         "id": 995,
         "name": "Non League Premier - Southern South - Play-offs",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/995.png"
+        "logo": "https://media.api-sports.io/football/leagues/995.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -9114,12 +9136,12 @@
         "id": 996,
         "name": "Non League Premier - Southern Central - Play-offs",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/996.png"
+        "logo": "https://media.api-sports.io/football/leagues/996.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -9151,12 +9173,12 @@
         "id": 1019,
         "name": "Charity Shield",
         "type": "Cup",
-        "logo": "https://media-4.api-sports.io/football/leagues/1019.png"
+        "logo": "https://media.api-sports.io/football/leagues/1019.png"
       },
       "country": {
         "name": "Northern-Ireland",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
@@ -9188,12 +9210,12 @@
         "id": 1022,
         "name": "Premier League - Summer Series",
         "type": "League",
-        "logo": "https://media-4.api-sports.io/football/leagues/1022.png"
+        "logo": "https://media.api-sports.io/football/leagues/1022.png"
       },
       "country": {
         "name": "England",
         "code": "GB",
-        "flag": "https://media-4.api-sports.io/flags/gb.svg"
+        "flag": "https://media.api-sports.io/flags/gb.svg"
       },
       "seasons": [
         {
