@@ -64,3 +64,19 @@
   border-color: red;
   box-shadow: 3px 3px 15px 0px rgba(128, 0, 0, 1);
 }
+
+table {
+  display: inline-block;
+}
+
+th {
+  padding: 25px;
+}
+
+table,
+th,
+td {
+  border: 2px solid;
+  border-radius: 2px;
+  border-collapse: collapse;
+}
