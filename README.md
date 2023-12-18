@@ -8,7 +8,7 @@
 
 # A list of results and fixtures for the previous and next 6 days
 
-# A dynamic filter that displays an teams reults and fixtures for the entire current season
+# A dynamic filter that displays an teams results and fixtures for the entire current season
 
 # How to start my server?
 
