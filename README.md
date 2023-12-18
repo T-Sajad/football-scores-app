@@ -2,7 +2,7 @@
 
 # This App provides an comprehensive overview of the premier league.
 
-# Key featurws include:
+# Key features include:
 
 # A live premier league Table which displays current standings, points and goal difference
 
