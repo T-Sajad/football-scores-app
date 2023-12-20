@@ -1,21 +1,15 @@
 {
   "get": "players/topscorers",
-  "parameters": {
-    "league": "4",
-    "season": "2008"
-  },
+  "parameters": { "league": "4", "season": "2008" },
   "errors": [],
-  "results": 13,
-  "paging": {
-    "current": 0,
-    "total": 1
-  },
+  "results": 20,
+  "paging": { "current": 0, "total": 1 },
   "response": [
     {
       "player": {
         "id": 33255,
-        "name": "Ł. Podolski",
-        "firstname": "Łukasz Józef",
+        "name": "\u0141. Podolski",
+        "firstname": "\u0141ukasz J\u00f3zef",
         "lastname": "Podolski",
         "age": 38,
         "birth": {
@@ -53,49 +47,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 0,
-            "out": 1,
-            "bench": 0
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 0, "out": 1, "bench": 0 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 3,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -110,12 +83,12 @@
       "player": {
         "id": 373,
         "name": "Pepe",
-        "firstname": "Képler Laveran",
+        "firstname": "K\u00e9pler Laveran",
         "lastname": "de Lima Ferreira",
         "age": 40,
         "birth": {
           "date": "1983-02-26",
-          "place": "Maceió",
+          "place": "Macei\u00f3",
           "country": "Brazil"
         },
         "nationality": "Portugal",
@@ -148,49 +121,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 0, "out": 0, "bench": 0 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 1,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 1, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -243,49 +195,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 1
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 0, "out": 0, "bench": 1 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 1,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -299,9 +230,9 @@
     {
       "player": {
         "id": 754,
-        "name": "L. Modrić",
+        "name": "L. Modri\u0107",
         "firstname": "Luka",
-        "lastname": "Modrić",
+        "lastname": "Modri\u0107",
         "age": 38,
         "birth": {
           "date": "1985-09-09",
@@ -338,49 +269,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 1
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 0, "out": 0, "bench": 1 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 1,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 1, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -394,9 +304,9 @@
     {
       "player": {
         "id": 33243,
-        "name": "Andrés Iniesta",
-        "firstname": "Andrés",
-        "lastname": "Iniesta Luján",
+        "name": "Andr\u00e9s Iniesta",
+        "firstname": "Andr\u00e9s",
+        "lastname": "Iniesta Luj\u00e1n",
         "age": 39,
         "birth": {
           "date": "1984-05-11",
@@ -433,49 +343,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 0,
-            "out": 4,
-            "bench": 0
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 0, "out": 4, "bench": 0 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 0,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 1, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -491,7 +380,7 @@
         "id": 1695,
         "name": "Santi Cazorla",
         "firstname": "Santiago",
-        "lastname": "Cazorla González",
+        "lastname": "Cazorla Gonz\u00e1lez",
         "age": 39,
         "birth": {
           "date": "1984-12-13",
@@ -528,49 +417,102 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 5,
-            "out": 0,
-            "bench": 6
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 5, "out": 0, "bench": 6 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 0,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 1, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 738,
+        "name": "Sergio Ramos",
+        "firstname": "Sergio",
+        "lastname": "Ramos Garc\u00eda",
+        "age": 37,
+        "birth": {
+          "date": "1986-03-30",
+          "place": "Camas",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media-4.api-sports.io/football/players/738.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 9,
+            "name": "Spain",
+            "logo": "https://media-4.api-sports.io/football/teams/9.png"
           },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
+          "league": {
+            "id": 4,
+            "name": "Euro Championship",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
+            "flag": null,
+            "season": 2008
           },
+          "games": {
+            "appearences": 5,
+            "lineups": 5,
+            "minutes": 480,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 0, "bench": 1 },
+          "shots": { "total": null, "on": null },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": null, "key": null, "accuracy": null },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": { "total": null, "won": null },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -623,144 +565,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 0, "out": 0, "bench": 0 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 0,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "id": 738,
-        "name": "Sergio Ramos",
-        "firstname": "Sergio",
-        "lastname": "Ramos García",
-        "age": 37,
-        "birth": {
-          "date": "1986-03-30",
-          "place": "Camas",
-          "country": "Spain"
-        },
-        "nationality": "Spain",
-        "height": "184 cm",
-        "weight": "82 kg",
-        "injured": false,
-        "photo": "https://media-4.api-sports.io/football/players/738.png"
-      },
-      "statistics": [
-        {
-          "team": {
-            "id": 9,
-            "name": "Spain",
-            "logo": "https://media-4.api-sports.io/football/teams/9.png"
-          },
-          "league": {
-            "id": 4,
-            "name": "Euro Championship",
-            "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
-            "flag": null,
-            "season": 2008
-          },
-          "games": {
-            "appearences": 5,
-            "lineups": 5,
-            "minutes": 480,
-            "number": null,
-            "position": "Defender",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 1
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": null,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -774,13 +600,13 @@
     {
       "player": {
         "id": 2677,
-        "name": "João Moutinho",
-        "firstname": "João Filipe",
+        "name": "Jo\u00e3o Moutinho",
+        "firstname": "Jo\u00e3o Filipe",
         "lastname": "Iria Santos Moutinho",
         "age": 37,
         "birth": {
           "date": "1986-09-08",
-          "place": "Portimão",
+          "place": "Portim\u00e3o",
           "country": "Portugal"
         },
         "nationality": "Portugal",
@@ -813,49 +639,102 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 1,
-            "out": 2,
-            "bench": 1
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 1, "out": 2, "bench": 1 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 0,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 118097,
+        "name": "D. Kolodin",
+        "firstname": "Denis",
+        "lastname": "Kolodin",
+        "age": 41,
+        "birth": {
+          "date": "1982-01-11",
+          "place": "Kamyshin",
+          "country": "Russia"
+        },
+        "nationality": "Russia",
+        "height": "185 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media-4.api-sports.io/football/players/118097.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 4,
+            "name": "Russia",
+            "logo": "https://media-4.api-sports.io/football/teams/4.png"
           },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
+          "league": {
+            "id": 4,
+            "name": "Euro Championship",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
+            "flag": null,
+            "season": 2008
           },
+          "games": {
+            "appearences": 4,
+            "lineups": 4,
+            "minutes": 390,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 0, "bench": 0 },
+          "shots": { "total": null, "on": null },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": null, "key": null, "accuracy": null },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": { "total": null, "won": null },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 2, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -870,7 +749,7 @@
       "player": {
         "id": 50940,
         "name": "Nani",
-        "firstname": "Luís Carlos",
+        "firstname": "Lu\u00eds Carlos",
         "lastname": "Almeida da Cunha",
         "age": 37,
         "birth": {
@@ -908,567 +787,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 2, "out": 0, "bench": 3 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 0,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        },
-        {
-          "team": {
-            "id": 27,
-            "name": "Portugal",
-            "logo": "https://media-4.api-sports.io/football/teams/27.png"
-          },
-          "league": {
-            "id": 4,
-            "name": "Euro Championship",
-            "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
-            "flag": null,
-            "season": 2008
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 135,
-            "number": null,
-            "position": "Attacker",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": null,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        },
-        {
-          "team": {
-            "id": 27,
-            "name": "Portugal",
-            "logo": "https://media-4.api-sports.io/football/teams/27.png"
-          },
-          "league": {
-            "id": 4,
-            "name": "Euro Championship",
-            "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
-            "flag": null,
-            "season": 2008
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 135,
-            "number": null,
-            "position": "Attacker",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": null,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        },
-        {
-          "team": {
-            "id": 27,
-            "name": "Portugal",
-            "logo": "https://media-4.api-sports.io/football/teams/27.png"
-          },
-          "league": {
-            "id": 4,
-            "name": "Euro Championship",
-            "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
-            "flag": null,
-            "season": 2008
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 135,
-            "number": null,
-            "position": "Attacker",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": null,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        },
-        {
-          "team": {
-            "id": 27,
-            "name": "Portugal",
-            "logo": "https://media-4.api-sports.io/football/teams/27.png"
-          },
-          "league": {
-            "id": 4,
-            "name": "Euro Championship",
-            "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
-            "flag": null,
-            "season": 2008
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 135,
-            "number": null,
-            "position": "Attacker",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": null,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        },
-        {
-          "team": {
-            "id": 27,
-            "name": "Portugal",
-            "logo": "https://media-4.api-sports.io/football/teams/27.png"
-          },
-          "league": {
-            "id": 4,
-            "name": "Euro Championship",
-            "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
-            "flag": null,
-            "season": 2008
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 135,
-            "number": null,
-            "position": "Attacker",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": null,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        },
-        {
-          "team": {
-            "id": 27,
-            "name": "Portugal",
-            "logo": "https://media-4.api-sports.io/football/teams/27.png"
-          },
-          "league": {
-            "id": 4,
-            "name": "Euro Championship",
-            "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
-            "flag": null,
-            "season": 2008
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 135,
-            "number": null,
-            "position": "Attacker",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": null,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
-          "penalty": {
-            "won": null,
-            "commited": null,
-            "scored": null,
-            "missed": null,
-            "saved": null
-          }
-        },
-        {
-          "team": {
-            "id": 27,
-            "name": "Portugal",
-            "logo": "https://media-4.api-sports.io/football/teams/27.png"
-          },
-          "league": {
-            "id": 4,
-            "name": "Euro Championship",
-            "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
-            "flag": null,
-            "season": 2008
-          },
-          "games": {
-            "appearences": 3,
-            "lineups": 1,
-            "minutes": 135,
-            "number": null,
-            "position": "Attacker",
-            "rating": null,
-            "captain": false
-          },
-          "substitutes": {
-            "in": 2,
-            "out": 0,
-            "bench": 3
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
-          "goals": {
-            "total": 0,
-            "conceded": null,
-            "assists": null,
-            "saves": null
-          },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
-          "tackles": {
-            "total": null,
-            "blocks": null,
-            "interceptions": null
-          },
-          "duels": {
-            "total": null,
-            "won": null
-          },
-          "dribbles": {
-            "attempts": null,
-            "success": null,
-            "past": null
-          },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -1521,49 +861,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 1,
-            "out": 0,
-            "bench": 1
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 1, "out": 0, "bench": 1 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 0,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 1,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 1, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -1577,13 +896,13 @@
     {
       "player": {
         "id": 104522,
-        "name": "G. Tamaș",
+        "name": "G. Tama\u0219",
         "firstname": "Gabriel Sebastian",
-        "lastname": "Tamaș",
+        "lastname": "Tama\u0219",
         "age": 40,
         "birth": {
           "date": "1983-11-09",
-          "place": "Braşov",
+          "place": "Bra\u015fov",
           "country": "Romania"
         },
         "nationality": "Romania",
@@ -1616,49 +935,28 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 0, "out": 0, "bench": 0 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 0,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
-          },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
-          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
@@ -1672,9 +970,9 @@
     {
       "player": {
         "id": 49854,
-        "name": "G. İnler",
-        "firstname": "Gökhan",
-        "lastname": "İnler",
+        "name": "G. \u0130nler",
+        "firstname": "G\u00f6khan",
+        "lastname": "\u0130nler",
         "age": 39,
         "birth": {
           "date": "1984-06-27",
@@ -1711,49 +1009,472 @@
             "rating": null,
             "captain": false
           },
-          "substitutes": {
-            "in": 0,
-            "out": 0,
-            "bench": 0
-          },
-          "shots": {
-            "total": null,
-            "on": null
-          },
+          "substitutes": { "in": 0, "out": 0, "bench": 0 },
+          "shots": { "total": null, "on": null },
           "goals": {
             "total": 0,
             "conceded": null,
             "assists": null,
             "saves": null
           },
-          "passes": {
-            "total": null,
-            "key": null,
-            "accuracy": null
-          },
+          "passes": { "total": null, "key": null, "accuracy": null },
           "tackles": {
             "total": null,
             "blocks": null,
             "interceptions": null
           },
-          "duels": {
-            "total": null,
-            "won": null
-          },
+          "duels": { "total": null, "won": null },
           "dribbles": {
             "attempts": null,
             "success": null,
             "past": null
           },
-          "fouls": {
-            "drawn": null,
-            "committed": null
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 149,
+        "name": "I. Rakiti\u0107",
+        "firstname": "Ivan",
+        "lastname": "Rakiti\u0107",
+        "age": 35,
+        "birth": {
+          "date": "1988-03-10",
+          "place": "Rheinfelden",
+          "country": "Switzerland"
+        },
+        "nationality": "Croatia",
+        "height": "184 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media-4.api-sports.io/football/players/149.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 3,
+            "name": "Croatia",
+            "logo": "https://media-4.api-sports.io/football/teams/3.png"
           },
-          "cards": {
-            "yellow": 0,
-            "yellowred": 0,
-            "red": 0
+          "league": {
+            "id": 4,
+            "name": "Euro Championship",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
+            "flag": null,
+            "season": 2008
           },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 0, "bench": 1 },
+          "shots": { "total": null, "on": null },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": null, "key": null, "accuracy": null },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": { "total": null, "won": null },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 856,
+        "name": "G. Chiellini",
+        "firstname": "Giorgio",
+        "lastname": "Chiellini",
+        "age": 39,
+        "birth": {
+          "date": "1984-08-14",
+          "place": "Pisa",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "187 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media-4.api-sports.io/football/players/856.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 768,
+            "name": "Italy",
+            "logo": "https://media-4.api-sports.io/football/teams/768.png"
+          },
+          "league": {
+            "id": 4,
+            "name": "Euro Championship",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
+            "flag": null,
+            "season": 2008
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 0, "bench": 1 },
+          "shots": { "total": null, "on": null },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": null, "key": null, "accuracy": null },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": { "total": null, "won": null },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 1, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 44355,
+        "name": "B. Gomis",
+        "firstname": "Baf\u00e9timbi Fredius",
+        "lastname": "Gomis",
+        "age": 38,
+        "birth": {
+          "date": "1985-08-06",
+          "place": "La Seyne-sur-Mer",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media-4.api-sports.io/football/players/44355.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2,
+            "name": "France",
+            "logo": "https://media-4.api-sports.io/football/teams/2.png"
+          },
+          "league": {
+            "id": 4,
+            "name": "Euro Championship",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
+            "flag": null,
+            "season": 2008
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 0,
+            "minutes": 48,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": { "in": 2, "out": 0, "bench": 3 },
+          "shots": { "total": null, "on": null },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": null, "key": null, "accuracy": null },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": { "total": null, "won": null },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 66256,
+        "name": "M. Mat\u011bjovsk\u00fd",
+        "firstname": "Marek",
+        "lastname": "Mat\u011bjovsk\u00fd",
+        "age": 42,
+        "birth": {
+          "date": "1981-12-20",
+          "place": "Brand\u00fds nad Labem",
+          "country": "Czechia"
+        },
+        "nationality": "Czechia",
+        "height": "178 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media-4.api-sports.io/football/players/66256.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 770,
+            "name": "Czech Republic",
+            "logo": "https://media-4.api-sports.io/football/teams/770.png"
+          },
+          "league": {
+            "id": 4,
+            "name": "Euro Championship",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
+            "flag": null,
+            "season": 2008
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 107,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 2, "bench": 1 },
+          "shots": { "total": null, "on": null },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": null, "key": null, "accuracy": null },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": { "total": null, "won": null },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 314,
+        "name": "Ra\u00fal Albiol",
+        "firstname": "Ra\u00fal",
+        "lastname": "Albiol Tortajada",
+        "age": 38,
+        "birth": {
+          "date": "1985-09-04",
+          "place": "Villamarchante",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "187 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media-4.api-sports.io/football/players/314.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 9,
+            "name": "Spain",
+            "logo": "https://media-4.api-sports.io/football/teams/9.png"
+          },
+          "league": {
+            "id": 4,
+            "name": "Euro Championship",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
+            "flag": null,
+            "season": 2008
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 156,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": { "in": 1, "out": 0, "bench": 5 },
+          "shots": { "total": null, "on": null },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": null, "key": null, "accuracy": null },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": { "total": null, "won": null },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 759,
+        "name": "K. Benzema",
+        "firstname": "Karim Mostafa",
+        "lastname": "Benzema",
+        "age": 36,
+        "birth": {
+          "date": "1987-12-19",
+          "place": "Lyon",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media-4.api-sports.io/football/players/759.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 2,
+            "name": "France",
+            "logo": "https://media-4.api-sports.io/football/teams/2.png"
+          },
+          "league": {
+            "id": 4,
+            "name": "Euro Championship",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/4.png",
+            "flag": null,
+            "season": 2008
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 168,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 1, "bench": 1 },
+          "shots": { "total": null, "on": null },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": null, "key": null, "accuracy": null },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": { "total": null, "won": null },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": { "drawn": null, "committed": null },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
           "penalty": {
             "won": null,
             "commited": null,
