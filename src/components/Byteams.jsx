@@ -1,10 +1,11 @@
-import fixturedata from '../../data/get-fixtures-en.json';
 import FixtureList from './FixtureList';
 import { useState } from 'react';
-console.log(fixturedata);
+import dataLoader from '../data-loader.js';
+import { FIXTURES } from '../data-loader.js';
 
 // TODO should input be a drop down list rather than free text input?
 // TODO can you auto-generate a list of teams from the fixture data to popupate the drop down?
+const fixturedata = dataLoader(FIXTURES);
 
 const calculateVisibleFixtures = (allFixtures, searchTerm) => {
   if (!searchTerm) {

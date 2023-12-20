@@ -1,10 +1,9 @@
 import React from 'react';
-import standingData from '../../data/get-standings.json';
 import Standings from './Standings';
+import dataLoader, { STANDINGS } from '../data-loader.js';
 
 function StandingsList() {
-  const standings = standingData.response[0].league.standings[0]; // Note the correct property name here
-
+  const standings = dataLoader(STANDINGS);
   return (
     <table>
       <tr>
