@@ -5,13 +5,31 @@ export const STANDINGS = 'standings';
 export const FIXTURES = 'fixtures';
 
 function loadData(name) {
-  if (name == STANDINGS) {
-    return standingData.response[0].league.standings[0];
-  } else if (name == FIXTURES) {
-    return fixturedata;
-  } else {
-    throw new Error('Name is not recognised!');
-  }
+  return new Promise((resolve, reject) => {
+    if (name == STANDINGS) {
+      resolve(standingData.response[0].league.standings[0]);
+    } else if (name == FIXTURES) {
+      resolve(fixturedata);
+    } else {
+      reject(Error('Name is not recognised!'));
+    }
+  });
 }
+
+/**
+ * Useage:
+ *
+ * old version:
+ * const data = loadData("standings")
+ *
+ * promise version:
+ * loadData("standings").then((data) => {
+ *    console.log(data)
+ * })
+ *
+ * await version:
+ * const data = await loadData("standings")
+ *
+ */
 
 export default loadData;
